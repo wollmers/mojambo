@@ -83,7 +83,17 @@ $(function() {
 });
 
 /* save a nested list via Ajax */
-$('#portlet-saver a').click(function() {       
-    $('.column').each(function() {
-    }); 
+$('a#saver').click(function() {
+    var arr = [];       
+    $('div.column').each(function() {
+      //var id = $(this).attr('id');
+      var data = {
+        column : $(this).attr('id'),
+        portlets : $('#' + $(this).attr('id')).sortable('toArray')
+      };
+      arr.push(data);
+   });
+   alert(JSON.stringify(arr)); 
 });
+
+

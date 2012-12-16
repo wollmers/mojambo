@@ -10,8 +10,8 @@ BEGIN{
   $ENV{MOJO_HOME} = Cwd::abs_path(dirname(__FILE__));
 }
 
-use lib ( "$ENV{MOJO_HOME}/lib");
-#use lib ( "/path/to/lib");
+#use lib ( "$ENV{MOJO_HOME}/lib");
+use lib ( "/home/helmut/mojambo/lib");
 
 
 # Check if Mojo is installed
