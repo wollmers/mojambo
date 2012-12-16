@@ -1,0 +1,1261 @@
+[Thu Nov 29 14:18:36 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:18:36 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Thu Nov 29 14:18:36 2012] [debug] Routing to controller "Mo::Example" and action "welcome".
+[Thu Nov 29 14:18:36 2012] [debug] Rendering template "example/welcome.html.ep".
+[Thu Nov 29 14:18:36 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov 29 14:18:36 2012] [debug] 200 OK (0.013828s, 72.317/s).
+[Thu Nov 29 14:20:00 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:20:00 2012] [debug] GET /welcome (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Thu Nov 29 14:20:00 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov 29 14:20:00 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov 29 14:20:00 2012] [debug] Rendering inline template.
+[Thu Nov 29 14:20:00 2012] [debug] Rendering inline template.
+[Thu Nov 29 14:20:00 2012] [debug] 404 Not Found (0.018890s, 52.938/s).
+[Thu Nov 29 14:20:03 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:20:03 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:20:03 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:20:03 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:20:03 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:20:14 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:20:14 2012] [debug] GET /welcome.html (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Thu Nov 29 14:20:14 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov 29 14:20:14 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov 29 14:20:14 2012] [debug] Rendering inline template.
+[Thu Nov 29 14:20:14 2012] [debug] Rendering inline template.
+[Thu Nov 29 14:20:14 2012] [debug] 404 Not Found (0.019363s, 51.645/s).
+[Thu Nov 29 14:20:15 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:20:15 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:20:15 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:20:16 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:20:16 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:35:38 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:35:38 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Thu Nov 29 14:35:38 2012] [debug] Routing to controller "Mo::Example" and action "welcome".
+[Thu Nov 29 14:35:38 2012] [debug] Rendering template "example/welcome.html.ep".
+[Thu Nov 29 14:35:38 2012] [error] Global symbol "$message" requires explicit package name at template "example/welcome.html.ep" line 3, near "This page was generated from the template "templates/example/welcome.html.ep"".
+1: % layout 'default';
+2: % title 'Welcome';
+3: <h2><%= $message %></h2>
+4: This page was generated from the template "templates/example/welcome.html.ep"
+5: and the layout "templates/layouts/default.html.ep",
+6: <a href="<%== url_for %>">click here</a> to reload the page or
+7: <a href="/index.html">here</a> to move forward to a static page.
+
+[Thu Nov 29 14:35:38 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Nov 29 14:35:38 2012] [debug] Template "exception.html.ep" not found.
+[Thu Nov 29 14:35:38 2012] [debug] Rendering inline template.
+[Thu Nov 29 14:35:38 2012] [debug] Rendering inline template.
+[Thu Nov 29 14:35:38 2012] [debug] 500 Internal Server Error (0.066198s, 15.106/s).
+[Thu Nov 29 14:35:40 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:35:40 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:35:40 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:35:41 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:35:41 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:35:41 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:35:42 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:38:03 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:38:03 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Thu Nov 29 14:38:03 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "welcome".
+[Thu Nov 29 14:38:03 2012] [debug] Rendering template "fixpunkt/welcome.html.ep".
+[Thu Nov 29 14:38:03 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Thu Nov 29 14:38:03 2012] [debug] 200 OK (0.020859s, 47.941/s).
+[Thu Nov 29 14:39:08 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:39:08 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Thu Nov 29 14:39:08 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "welcome".
+[Thu Nov 29 14:39:08 2012] [debug] Rendering template "fixpunkt/welcome.html.ep".
+[Thu Nov 29 14:39:08 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Thu Nov 29 14:39:08 2012] [debug] 200 OK (0.020643s, 48.443/s).
+[Thu Nov 29 14:39:13 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:39:13 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Thu Nov 29 14:39:13 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "welcome".
+[Thu Nov 29 14:39:13 2012] [debug] Rendering template "fixpunkt/welcome.html.ep".
+[Thu Nov 29 14:39:13 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Thu Nov 29 14:39:13 2012] [debug] 200 OK (0.020761s, 48.167/s).
+[Thu Nov 29 14:39:45 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:39:45 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Thu Nov 29 14:39:45 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "welcome".
+[Thu Nov 29 14:39:45 2012] [debug] Rendering template "fixpunkt/welcome.html.ep".
+[Thu Nov 29 14:39:45 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Thu Nov 29 14:39:45 2012] [debug] 200 OK (0.020789s, 48.102/s).
+[Thu Nov 29 14:46:47 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:46:47 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Thu Nov 29 14:46:47 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "welcome".
+[Thu Nov 29 14:46:47 2012] [debug] Rendering template "fixpunkt/welcome.html.ep".
+[Thu Nov 29 14:46:47 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Thu Nov 29 14:46:47 2012] [error] syntax error at template "layouts/fixpunkt.html.ep" line 1, near "<!DOCTYPE html>".
+1: % skin 'fixpunkt';
+2: <!DOCTYPE html>
+3: <html>
+4: <head>
+5: <meta charset="utf-8">
+6: 
+
+[Thu Nov 29 14:46:47 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Nov 29 14:46:47 2012] [debug] Template "exception.html.ep" not found.
+[Thu Nov 29 14:46:47 2012] [debug] Rendering inline template.
+[Thu Nov 29 14:46:47 2012] [debug] Rendering inline template.
+[Thu Nov 29 14:46:47 2012] [debug] 500 Internal Server Error (0.047196s, 21.188/s).
+[Thu Nov 29 14:46:49 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:46:49 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:46:49 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:46:49 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:46:49 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:46:50 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:46:50 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:55:33 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:55:33 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Thu Nov 29 14:55:33 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "welcome".
+[Thu Nov 29 14:55:33 2012] [debug] Rendering template "fixpunkt/welcome.html.ep".
+[Thu Nov 29 14:55:33 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Thu Nov 29 14:55:33 2012] [error] Bareword "skin" not allowed while "strict subs" in use at template "layouts/fixpunkt.html.ep" line 11, near "<link href="/pub/skins/<%= skin %>/bootstrap/css/responsive.css" rel="stylesheet" type="text/css" media="screen, print, projection">".
+Bareword "skin" not allowed while "strict subs" in use at template "layouts/fixpunkt.html.ep" line 12, near "".
+Bareword "skin" not allowed while "strict subs" in use at template "layouts/fixpunkt.html.ep" line 14, near "".
+Bareword "skin" not allowed while "strict subs" in use at template "layouts/fixpunkt.html.ep" line 16, near "".
+Bareword "skin" not allowed while "strict subs" in use at template "layouts/fixpunkt.html.ep" line 34, near "         </span>".
+Bareword "skin" not allowed while "strict subs" in use at template "layouts/fixpunkt.html.ep" line 43, near "                </div>".
+6: 
+7: <link type="image/x-icon" rel="shortcut icon" href="/pub/skins/<%= $skin %>/img/favicon.ico">
+8: 
+9: <meta name="viewport" content="width=device-width, initial-scale=1.0">
+10: 
+11: <link href="/pub/skins/<%= skin %>/bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css" media="screen, print, projection">
+12: <link href="/pub/skins/<%= skin %>/bootstrap/css/responsive.css" rel="stylesheet" type="text/css" media="screen, print, projection">
+13: 
+14: <link href="/pub/skins/<%= skin %>/css/base.css" rel="stylesheet" type="text/css" media="screen, print, projection">
+15: 
+16: <link href="/pub/skins/<%= skin %>/prettify/google-code-prettify/prettify.css"  type="text/css"  rel="stylesheet" media="screen, print, projection">
+
+[Thu Nov 29 14:55:33 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Nov 29 14:55:33 2012] [debug] Template "exception.html.ep" not found.
+[Thu Nov 29 14:55:33 2012] [debug] Rendering inline template.
+[Thu Nov 29 14:55:33 2012] [debug] Rendering inline template.
+[Thu Nov 29 14:55:33 2012] [debug] 500 Internal Server Error (0.047425s, 21.086/s).
+[Thu Nov 29 14:55:34 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:55:34 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:55:34 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:55:35 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:55:36 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:55:36 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:55:36 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:56:43 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:56:43 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Thu Nov 29 14:56:43 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "welcome".
+[Thu Nov 29 14:56:43 2012] [debug] Rendering template "fixpunkt/welcome.html.ep".
+[Thu Nov 29 14:56:43 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Thu Nov 29 14:56:43 2012] [debug] 200 OK (0.021052s, 47.501/s).
+[Thu Nov 29 14:56:54 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 14:56:54 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Thu Nov 29 14:56:54 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "welcome".
+[Thu Nov 29 14:56:54 2012] [debug] Rendering template "fixpunkt/welcome.html.ep".
+[Thu Nov 29 14:56:54 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Thu Nov 29 14:56:54 2012] [debug] 200 OK (0.021011s, 47.594/s).
+[Thu Nov 29 15:11:23 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 15:11:23 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Thu Nov 29 15:11:23 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "welcome".
+[Thu Nov 29 15:11:23 2012] [debug] Rendering template "fixpunkt/welcome.html.ep".
+[Thu Nov 29 15:11:23 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Thu Nov 29 15:11:23 2012] [debug] Rendering template "header_common.html.ep".
+[Thu Nov 29 15:11:23 2012] [error] Global symbol "$skin" requires explicit package name at template "header_common.html.ep" line 3, near "".
+Global symbol "$skin" requires explicit package name at template "header_common.html.ep" line 7, near "<link href="/pub/skins/<%= $skin %>/bootstrap/css/responsive.css" rel="stylesheet" type="text/css" media="screen, print, projection">".
+Global symbol "$skin" requires explicit package name at template "header_common.html.ep" line 8, near "".
+Global symbol "$skin" requires explicit package name at template "header_common.html.ep" line 10.
+1: <meta charset="utf-8">
+2: 
+3: <link type="image/x-icon" rel="shortcut icon" href="/pub/skins/<%= $skin %>/img/favicon.ico">
+4: 
+5: <meta name="viewport" content="width=device-width, initial-scale=1.0">
+6: 
+7: <link href="/pub/skins/<%= $skin %>/bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css" media="screen, print, projection">
+8: <link href="/pub/skins/<%= $skin %>/bootstrap/css/responsive.css" rel="stylesheet" type="text/css" media="screen, print, projection">
+
+[Thu Nov 29 15:11:23 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Nov 29 15:11:23 2012] [debug] Template "exception.html.ep" not found.
+[Thu Nov 29 15:11:23 2012] [debug] Rendering inline template.
+[Thu Nov 29 15:11:23 2012] [debug] Rendering inline template.
+[Thu Nov 29 15:11:23 2012] [debug] 500 Internal Server Error (0.049248s, 20.305/s).
+[Thu Nov 29 15:11:25 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 15:11:25 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 15:11:25 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 15:11:25 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 15:11:25 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 15:11:26 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 15:11:26 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 15:15:01 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 15:15:01 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Thu Nov 29 15:15:01 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "welcome".
+[Thu Nov 29 15:15:01 2012] [debug] Rendering template "fixpunkt/welcome.html.ep".
+[Thu Nov 29 15:15:01 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Thu Nov 29 15:15:01 2012] [debug] Template "footer.html.ep" not found.
+[Thu Nov 29 15:15:01 2012] [debug] 200 OK (0.021689s, 46.106/s).
+[Thu Nov 29 15:15:19 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 15:15:19 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Thu Nov 29 15:15:19 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "welcome".
+[Thu Nov 29 15:15:19 2012] [debug] Rendering template "fixpunkt/welcome.html.ep".
+[Thu Nov 29 15:15:19 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Thu Nov 29 15:15:19 2012] [debug] Template "footer.html.ep" not found.
+[Thu Nov 29 15:15:19 2012] [debug] 200 OK (0.021576s, 46.348/s).
+[Thu Nov 29 15:16:07 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 15:16:07 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Thu Nov 29 15:16:07 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "welcome".
+[Thu Nov 29 15:16:07 2012] [debug] Rendering template "fixpunkt/welcome.html.ep".
+[Thu Nov 29 15:16:07 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Thu Nov 29 15:16:07 2012] [debug] Template "fixpunkt_footer.html.ep" not found.
+[Thu Nov 29 15:16:07 2012] [debug] 200 OK (0.021853s, 45.760/s).
+[Thu Nov 29 15:39:07 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 15:39:07 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Thu Nov 29 15:39:07 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "welcome".
+[Thu Nov 29 15:39:07 2012] [debug] Rendering template "fixpunkt/welcome.html.ep".
+[Thu Nov 29 15:39:07 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Thu Nov 29 15:39:07 2012] [debug] Rendering template "fixpunkt/footer.html.ep".
+[Thu Nov 29 15:39:07 2012] [debug] 200 OK (0.025307s, 39.515/s).
+[Thu Nov 29 15:42:31 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 15:42:31 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Thu Nov 29 15:42:31 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "welcome".
+[Thu Nov 29 15:42:31 2012] [debug] Rendering template "fixpunkt/welcome.html.ep".
+[Thu Nov 29 15:42:31 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Thu Nov 29 15:42:31 2012] [debug] Rendering template "fixpunkt/menue.html.ep".
+[Thu Nov 29 15:42:31 2012] [debug] Rendering template "fixpunkt/footer.html.ep".
+[Thu Nov 29 15:42:31 2012] [debug] 200 OK (0.024776s, 40.362/s).
+[Thu Nov 29 15:51:45 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 15:51:45 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Thu Nov 29 15:51:45 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "welcome".
+[Thu Nov 29 15:51:45 2012] [debug] Rendering template "fixpunkt/welcome.html.ep".
+[Thu Nov 29 15:51:45 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Thu Nov 29 15:51:45 2012] [debug] Rendering template "fixpunkt/header.html.ep".
+[Thu Nov 29 15:51:45 2012] [debug] Rendering template "fixpunkt/menue.html.ep".
+[Thu Nov 29 15:51:45 2012] [debug] Rendering template "fixpunkt/footer.html.ep".
+[Thu Nov 29 15:51:45 2012] [debug] 200 OK (0.026648s, 37.526/s).
+[Thu Nov 29 15:54:34 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 15:54:34 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Thu Nov 29 15:54:34 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "welcome".
+[Thu Nov 29 15:54:34 2012] [debug] Rendering template "fixpunkt/welcome.html.ep".
+[Thu Nov 29 15:54:34 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Thu Nov 29 15:54:34 2012] [debug] Rendering template "fixpunkt/header.html.ep".
+[Thu Nov 29 15:54:34 2012] [debug] Rendering template "fixpunkt/menue.html.ep".
+[Thu Nov 29 15:54:34 2012] [debug] Rendering template "fixpunkt/footer.html.ep".
+[Thu Nov 29 15:54:34 2012] [debug] 200 OK (0.026670s, 37.495/s).
+[Thu Nov 29 16:08:40 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 16:08:40 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Thu Nov 29 16:08:40 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "welcome".
+[Thu Nov 29 16:08:40 2012] [debug] Rendering template "fixpunkt/welcome.html.ep".
+[Thu Nov 29 16:08:40 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Thu Nov 29 16:08:40 2012] [debug] Rendering template "header_common.html.ep".
+[Thu Nov 29 16:08:40 2012] [debug] Rendering template "fixpunkt/header.html.ep".
+[Thu Nov 29 16:08:40 2012] [debug] Rendering template "fixpunkt/menue.html.ep".
+[Thu Nov 29 16:08:40 2012] [debug] Rendering template "fixpunkt/footer.html.ep".
+[Thu Nov 29 16:08:40 2012] [debug] 200 OK (0.029215s, 34.229/s).
+[Thu Nov 29 16:08:47 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 16:08:47 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Thu Nov 29 16:08:47 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "welcome".
+[Thu Nov 29 16:08:47 2012] [debug] Rendering template "fixpunkt/welcome.html.ep".
+[Thu Nov 29 16:08:47 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Thu Nov 29 16:08:47 2012] [debug] Rendering template "header_common.html.ep".
+[Thu Nov 29 16:08:47 2012] [debug] Rendering template "fixpunkt/header.html.ep".
+[Thu Nov 29 16:08:47 2012] [debug] Rendering template "fixpunkt/menue.html.ep".
+[Thu Nov 29 16:08:47 2012] [debug] Rendering template "fixpunkt/footer.html.ep".
+[Thu Nov 29 16:08:47 2012] [debug] 200 OK (0.029210s, 34.235/s).
+[Thu Nov 29 16:59:28 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 16:59:28 2012] [debug] GET /fixpunkt/example (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Thu Nov 29 16:59:28 2012] [debug] Template "cpath.html.ep" not found.
+[Thu Nov 29 16:59:28 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov 29 16:59:28 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov 29 16:59:28 2012] [debug] Rendering inline template.
+[Thu Nov 29 16:59:28 2012] [debug] Rendering inline template.
+[Thu Nov 29 16:59:28 2012] [debug] 404 Not Found (0.019956s, 50.110/s).
+[Thu Nov 29 16:59:30 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 16:59:30 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 16:59:30 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 16:59:30 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 16:59:30 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 17:01:04 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 17:01:04 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Thu Nov 29 17:01:04 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "welcome".
+[Thu Nov 29 17:01:04 2012] [debug] Rendering template "fixpunkt/welcome.html.ep".
+[Thu Nov 29 17:01:04 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Thu Nov 29 17:01:04 2012] [debug] Rendering template "header_common.html.ep".
+[Thu Nov 29 17:01:04 2012] [debug] Rendering template "fixpunkt/header.html.ep".
+[Thu Nov 29 17:01:04 2012] [debug] Rendering template "fixpunkt/menue.html.ep".
+[Thu Nov 29 17:01:04 2012] [debug] Rendering template "fixpunkt/footer.html.ep".
+[Thu Nov 29 17:01:04 2012] [debug] 200 OK (0.028481s, 35.111/s).
+[Thu Nov 29 17:03:49 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 17:03:49 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Thu Nov 29 17:03:49 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "welcome".
+[Thu Nov 29 17:03:49 2012] [debug] Rendering template "fixpunkt/welcome.html.ep".
+[Thu Nov 29 17:03:49 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Thu Nov 29 17:03:49 2012] [debug] Rendering template "header_common.html.ep".
+[Thu Nov 29 17:03:49 2012] [debug] Rendering template "fixpunkt/header.html.ep".
+[Thu Nov 29 17:03:49 2012] [debug] Rendering template "fixpunkt/menue.html.ep".
+[Thu Nov 29 17:03:49 2012] [debug] Rendering template "fixpunkt/footer.html.ep".
+[Thu Nov 29 17:03:49 2012] [debug] 200 OK (0.028481s, 35.111/s).
+[Thu Nov 29 18:57:39 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 18:57:39 2012] [debug] GET /fixpunkt/example (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Thu Nov 29 18:57:39 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Thu Nov 29 18:57:39 2012] [debug] Rendering template "fixpunkt/example.html.ep".
+[Thu Nov 29 18:57:39 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Thu Nov 29 18:57:39 2012] [debug] Rendering template "header_common.html.ep".
+[Thu Nov 29 18:57:39 2012] [debug] Rendering template "fixpunkt/header.html.ep".
+[Thu Nov 29 18:57:39 2012] [debug] Rendering template "fixpunkt/menue.html.ep".
+[Thu Nov 29 18:57:39 2012] [debug] Rendering template "fixpunkt/footer.html.ep".
+[Thu Nov 29 18:57:39 2012] [debug] 200 OK (0.027897s, 35.846/s).
+[Thu Nov 29 19:18:22 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 19:18:22 2012] [debug] GET /fixpunkt/example (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Thu Nov 29 19:18:22 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Thu Nov 29 19:18:22 2012] [debug] Rendering template "fixpunkt/example.html.ep".
+[Thu Nov 29 19:18:22 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Thu Nov 29 19:18:22 2012] [debug] Rendering template "header_common.html.ep".
+[Thu Nov 29 19:18:22 2012] [debug] Rendering template "fixpunkt/header.html.ep".
+[Thu Nov 29 19:18:22 2012] [debug] Rendering template "fixpunkt/menue.html.ep".
+[Thu Nov 29 19:18:22 2012] [debug] Rendering template "fixpunkt/footer.html.ep".
+[Thu Nov 29 19:18:22 2012] [debug] 200 OK (0.027961s, 35.764/s).
+[Thu Nov 29 19:18:34 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov 29 19:18:34 2012] [debug] GET /fixpunkt/example (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Thu Nov 29 19:18:34 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Thu Nov 29 19:18:34 2012] [debug] Rendering template "fixpunkt/example.html.ep".
+[Thu Nov 29 19:18:34 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Thu Nov 29 19:18:34 2012] [debug] Rendering template "header_common.html.ep".
+[Thu Nov 29 19:18:34 2012] [debug] Rendering template "fixpunkt/header.html.ep".
+[Thu Nov 29 19:18:34 2012] [debug] Rendering template "fixpunkt/menue.html.ep".
+[Thu Nov 29 19:18:34 2012] [debug] Rendering template "fixpunkt/footer.html.ep".
+[Thu Nov 29 19:18:34 2012] [debug] 200 OK (0.027888s, 35.858/s).
+[Fri Nov 30 10:04:05 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:04:05 2012] [debug] GET /fixpunkt/serverinfo (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 10:04:05 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Fri Nov 30 10:04:05 2012] [debug] Rendering template "fixpunkt/serverinfo.html.ep".
+[Fri Nov 30 10:04:05 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Fri Nov 30 10:04:05 2012] [debug] Rendering template "header_common.html.ep".
+[Fri Nov 30 10:04:05 2012] [debug] Rendering template "fixpunkt/header.html.ep".
+[Fri Nov 30 10:04:05 2012] [debug] Rendering template "fixpunkt/menue.html.ep".
+[Fri Nov 30 10:04:05 2012] [debug] Rendering template "fixpunkt/footer.html.ep".
+[Fri Nov 30 10:04:05 2012] [debug] 200 OK (0.028700s, 34.843/s).
+[Fri Nov 30 10:07:50 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:07:50 2012] [debug] GET /fixpunkt/serverinfo (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 10:07:50 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Fri Nov 30 10:07:50 2012] [debug] Rendering template "fixpunkt/serverinfo.html.ep".
+[Fri Nov 30 10:07:50 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Fri Nov 30 10:07:50 2012] [debug] Rendering template "header_common.html.ep".
+[Fri Nov 30 10:07:50 2012] [debug] Rendering template "fixpunkt/header.html.ep".
+[Fri Nov 30 10:07:50 2012] [debug] Rendering template "fixpunkt/menue.html.ep".
+[Fri Nov 30 10:07:50 2012] [debug] Rendering template "fixpunkt/footer.html.ep".
+[Fri Nov 30 10:07:50 2012] [debug] 200 OK (0.028206s, 35.453/s).
+[Fri Nov 30 10:13:13 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:13:13 2012] [debug] GET /fixpunkt/serverinfo (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 10:13:13 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Fri Nov 30 10:13:13 2012] [debug] Rendering template "fixpunkt/serverinfo.html.ep".
+[Fri Nov 30 10:13:13 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Fri Nov 30 10:13:13 2012] [debug] Rendering template "header_common.html.ep".
+[Fri Nov 30 10:13:13 2012] [debug] Rendering template "fixpunkt/header.html.ep".
+[Fri Nov 30 10:13:13 2012] [debug] Rendering template "fixpunkt/menue.html.ep".
+[Fri Nov 30 10:13:13 2012] [debug] Rendering template "fixpunkt/footer.html.ep".
+[Fri Nov 30 10:13:13 2012] [debug] 200 OK (0.028365s, 35.255/s).
+[Fri Nov 30 10:13:29 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:13:29 2012] [debug] GET /fixpunkt/serverinfo (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 10:13:29 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Fri Nov 30 10:13:29 2012] [debug] Rendering template "fixpunkt/serverinfo.html.ep".
+[Fri Nov 30 10:13:29 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Fri Nov 30 10:13:29 2012] [debug] Rendering template "header_common.html.ep".
+[Fri Nov 30 10:13:29 2012] [debug] Rendering template "fixpunkt/header.html.ep".
+[Fri Nov 30 10:13:29 2012] [debug] Rendering template "fixpunkt/menue.html.ep".
+[Fri Nov 30 10:13:29 2012] [debug] Rendering template "fixpunkt/footer.html.ep".
+[Fri Nov 30 10:13:29 2012] [debug] 200 OK (0.028062s, 35.635/s).
+[Fri Nov 30 10:14:06 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:14:06 2012] [debug] GET /fixpunkt/serverinfo (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.90 Safari/537.1).
+[Fri Nov 30 10:14:06 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Fri Nov 30 10:14:06 2012] [debug] Rendering template "fixpunkt/serverinfo.html.ep".
+[Fri Nov 30 10:14:06 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Fri Nov 30 10:14:06 2012] [debug] Rendering template "header_common.html.ep".
+[Fri Nov 30 10:14:06 2012] [debug] Rendering template "fixpunkt/header.html.ep".
+[Fri Nov 30 10:14:06 2012] [debug] Rendering template "fixpunkt/menue.html.ep".
+[Fri Nov 30 10:14:06 2012] [debug] Rendering template "fixpunkt/footer.html.ep".
+[Fri Nov 30 10:14:06 2012] [debug] 200 OK (0.028157s, 35.515/s).
+[Fri Nov 30 10:14:08 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:14:08 2012] [debug] GET /fixpunkt/serverinfo (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.90 Safari/537.1).
+[Fri Nov 30 10:14:08 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Fri Nov 30 10:14:08 2012] [debug] Rendering template "fixpunkt/serverinfo.html.ep".
+[Fri Nov 30 10:14:08 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Fri Nov 30 10:14:08 2012] [debug] Rendering template "header_common.html.ep".
+[Fri Nov 30 10:14:08 2012] [debug] Rendering template "fixpunkt/header.html.ep".
+[Fri Nov 30 10:14:08 2012] [debug] Rendering template "fixpunkt/menue.html.ep".
+[Fri Nov 30 10:14:08 2012] [debug] Rendering template "fixpunkt/footer.html.ep".
+[Fri Nov 30 10:14:08 2012] [debug] 200 OK (0.028087s, 35.604/s).
+[Fri Nov 30 10:14:22 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:14:22 2012] [debug] GET /fixpunkt/serverinfo (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.90 Safari/537.1).
+[Fri Nov 30 10:14:22 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Fri Nov 30 10:14:22 2012] [debug] Rendering template "fixpunkt/serverinfo.html.ep".
+[Fri Nov 30 10:14:22 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Fri Nov 30 10:14:22 2012] [debug] Rendering template "header_common.html.ep".
+[Fri Nov 30 10:14:22 2012] [debug] Rendering template "fixpunkt/header.html.ep".
+[Fri Nov 30 10:14:22 2012] [debug] Rendering template "fixpunkt/menue.html.ep".
+[Fri Nov 30 10:14:22 2012] [debug] Rendering template "fixpunkt/footer.html.ep".
+[Fri Nov 30 10:14:22 2012] [debug] 200 OK (0.035537s, 28.140/s).
+[Fri Nov 30 10:14:23 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:14:23 2012] [debug] GET /fixpunkt/serverinfo (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.90 Safari/537.1).
+[Fri Nov 30 10:14:23 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Fri Nov 30 10:14:23 2012] [debug] Rendering template "fixpunkt/serverinfo.html.ep".
+[Fri Nov 30 10:14:23 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Fri Nov 30 10:14:23 2012] [debug] Rendering template "header_common.html.ep".
+[Fri Nov 30 10:14:23 2012] [debug] Rendering template "fixpunkt/header.html.ep".
+[Fri Nov 30 10:14:23 2012] [debug] Rendering template "fixpunkt/menue.html.ep".
+[Fri Nov 30 10:14:23 2012] [debug] Rendering template "fixpunkt/footer.html.ep".
+[Fri Nov 30 10:14:23 2012] [debug] 200 OK (0.028200s, 35.461/s).
+[Fri Nov 30 10:21:58 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:21:58 2012] [debug] GET /fixpunkt/serverinfo (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.90 Safari/537.1).
+[Fri Nov 30 10:21:58 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Fri Nov 30 10:21:58 2012] [debug] Rendering template "fixpunkt/serverinfo.html.ep".
+[Fri Nov 30 10:21:58 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Fri Nov 30 10:21:58 2012] [debug] Rendering template "header_common.html.ep".
+[Fri Nov 30 10:21:58 2012] [debug] Rendering template "fixpunkt/header.html.ep".
+[Fri Nov 30 10:21:58 2012] [debug] Rendering template "fixpunkt/menue.html.ep".
+[Fri Nov 30 10:21:58 2012] [debug] Rendering template "fixpunkt/footer.html.ep".
+[Fri Nov 30 10:21:58 2012] [debug] 200 OK (0.029755s, 33.608/s).
+[Fri Nov 30 10:21:59 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:21:59 2012] [debug] GET /fixpunkt/serverinfo (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.90 Safari/537.1).
+[Fri Nov 30 10:21:59 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Fri Nov 30 10:21:59 2012] [debug] Rendering template "fixpunkt/serverinfo.html.ep".
+[Fri Nov 30 10:21:59 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Fri Nov 30 10:21:59 2012] [debug] Rendering template "header_common.html.ep".
+[Fri Nov 30 10:21:59 2012] [debug] Rendering template "fixpunkt/header.html.ep".
+[Fri Nov 30 10:21:59 2012] [debug] Rendering template "fixpunkt/menue.html.ep".
+[Fri Nov 30 10:21:59 2012] [debug] Rendering template "fixpunkt/footer.html.ep".
+[Fri Nov 30 10:21:59 2012] [debug] 200 OK (0.029472s, 33.931/s).
+[Fri Nov 30 10:24:35 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:24:35 2012] [debug] GET /fixpunkt/serverinfo (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.90 Safari/537.1).
+[Fri Nov 30 10:24:35 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Fri Nov 30 10:24:35 2012] [debug] Rendering template "fixpunkt/serverinfo.html.ep".
+[Fri Nov 30 10:24:35 2012] [error] Global symbol "@LIB" requires explicit package name at template "fixpunkt/serverinfo.html.ep" line 20, near "</pre>".
+15: 
+16: 
+17: <h2>Perl @LIB</h2>
+18: 
+19: <pre>
+20: <%= dumper \@LIB %>
+21: </pre>
+22: 
+23: 
+24: <h2>Perl %INC</h2>
+25: 
+
+[Fri Nov 30 10:24:35 2012] [debug] Template "exception.development.html.ep" not found.
+[Fri Nov 30 10:24:35 2012] [debug] Template "exception.html.ep" not found.
+[Fri Nov 30 10:24:35 2012] [debug] Rendering inline template.
+[Fri Nov 30 10:24:35 2012] [debug] Rendering inline template.
+[Fri Nov 30 10:24:35 2012] [debug] 500 Internal Server Error (0.038914s, 25.698/s).
+[Fri Nov 30 10:24:36 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:24:36 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:24:36 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:24:38 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:24:38 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:24:38 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:24:38 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:24:38 2012] [debug] GET /fixpunkt/serverinfo (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.90 Safari/537.1).
+[Fri Nov 30 10:24:38 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Fri Nov 30 10:24:38 2012] [debug] Rendering template "fixpunkt/serverinfo.html.ep".
+[Fri Nov 30 10:24:38 2012] [error] Global symbol "@LIB" requires explicit package name at template "fixpunkt/serverinfo.html.ep" line 20, near "</pre>".
+15: 
+16: 
+17: <h2>Perl @LIB</h2>
+18: 
+19: <pre>
+20: <%= dumper \@LIB %>
+21: </pre>
+22: 
+23: 
+24: <h2>Perl %INC</h2>
+25: 
+
+[Fri Nov 30 10:24:38 2012] [debug] Template "exception.development.html.ep" not found.
+[Fri Nov 30 10:24:38 2012] [debug] Template "exception.html.ep" not found.
+[Fri Nov 30 10:24:38 2012] [debug] Rendering inline template.
+[Fri Nov 30 10:24:38 2012] [debug] Rendering inline template.
+[Fri Nov 30 10:24:38 2012] [debug] 500 Internal Server Error (0.039211s, 25.503/s).
+[Fri Nov 30 10:26:13 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:26:13 2012] [debug] GET /fixpunkt/serverinfo (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.90 Safari/537.1).
+[Fri Nov 30 10:26:13 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Fri Nov 30 10:26:13 2012] [debug] Rendering template "fixpunkt/serverinfo.html.ep".
+[Fri Nov 30 10:26:13 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Fri Nov 30 10:26:13 2012] [debug] Rendering template "header_common.html.ep".
+[Fri Nov 30 10:26:13 2012] [debug] Rendering template "fixpunkt/header.html.ep".
+[Fri Nov 30 10:26:13 2012] [debug] Rendering template "fixpunkt/menue.html.ep".
+[Fri Nov 30 10:26:13 2012] [debug] Rendering template "fixpunkt/footer.html.ep".
+[Fri Nov 30 10:26:13 2012] [debug] 200 OK (0.030045s, 33.283/s).
+[Fri Nov 30 10:26:14 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:26:14 2012] [debug] GET /fixpunkt/serverinfo (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.90 Safari/537.1).
+[Fri Nov 30 10:26:14 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Fri Nov 30 10:26:14 2012] [debug] Rendering template "fixpunkt/serverinfo.html.ep".
+[Fri Nov 30 10:26:14 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Fri Nov 30 10:26:14 2012] [debug] Rendering template "header_common.html.ep".
+[Fri Nov 30 10:26:14 2012] [debug] Rendering template "fixpunkt/header.html.ep".
+[Fri Nov 30 10:26:14 2012] [debug] Rendering template "fixpunkt/menue.html.ep".
+[Fri Nov 30 10:26:14 2012] [debug] Rendering template "fixpunkt/footer.html.ep".
+[Fri Nov 30 10:26:14 2012] [debug] 200 OK (0.029923s, 33.419/s).
+[Fri Nov 30 10:41:08 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:41:08 2012] [debug] GET /perldoc (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.90 Safari/537.1).
+[Fri Nov 30 10:41:08 2012] [debug] Routing to a callback.
+[Fri Nov 30 10:41:08 2012] [debug] Rendering inline template.
+[Fri Nov 30 10:41:08 2012] [debug] Rendering inline template.
+[Fri Nov 30 10:41:08 2012] [debug] 200 OK (0.113721s, 8.793/s).
+[Fri Nov 30 10:41:09 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:41:09 2012] [debug] GET /perldoc (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.90 Safari/537.1).
+[Fri Nov 30 10:41:09 2012] [debug] Routing to a callback.
+[Fri Nov 30 10:41:09 2012] [debug] Rendering inline template.
+[Fri Nov 30 10:41:09 2012] [debug] Rendering inline template.
+[Fri Nov 30 10:41:09 2012] [debug] 200 OK (0.065119s, 15.357/s).
+[Fri Nov 30 10:41:42 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:41:42 2012] [debug] GET /perldoc (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.90 Safari/537.1).
+[Fri Nov 30 10:41:42 2012] [debug] Routing to a callback.
+[Fri Nov 30 10:41:42 2012] [debug] Rendering inline template.
+[Fri Nov 30 10:41:42 2012] [debug] Rendering inline template.
+[Fri Nov 30 10:41:42 2012] [debug] 200 OK (0.065595s, 15.245/s).
+[Fri Nov 30 10:42:17 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:42:17 2012] [debug] GET /perldoc (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.90 Safari/537.1).
+[Fri Nov 30 10:42:17 2012] [debug] Routing to a callback.
+[Fri Nov 30 10:42:17 2012] [debug] Rendering inline template.
+[Fri Nov 30 10:42:17 2012] [debug] Rendering inline template.
+[Fri Nov 30 10:42:17 2012] [debug] 200 OK (0.065581s, 15.248/s).
+[Fri Nov 30 10:42:18 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:42:18 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:42:18 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:42:19 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:42:19 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:42:36 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:42:36 2012] [debug] GET /perldoc (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.90 Safari/537.1).
+[Fri Nov 30 10:42:36 2012] [debug] Routing to a callback.
+[Fri Nov 30 10:42:36 2012] [debug] Rendering inline template.
+[Fri Nov 30 10:42:36 2012] [debug] Rendering inline template.
+[Fri Nov 30 10:42:36 2012] [debug] 200 OK (0.065675s, 15.226/s).
+[Fri Nov 30 10:42:38 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:42:38 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:42:38 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:42:38 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:42:38 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:42:39 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:42:39 2012] [debug] GET /perldoc (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.90 Safari/537.1).
+[Fri Nov 30 10:42:39 2012] [debug] Routing to a callback.
+[Fri Nov 30 10:42:39 2012] [debug] Rendering inline template.
+[Fri Nov 30 10:42:39 2012] [debug] Rendering inline template.
+[Fri Nov 30 10:42:39 2012] [debug] 200 OK (0.065620s, 15.239/s).
+[Fri Nov 30 10:45:09 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:45:09 2012] [debug] GET /perldoc (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 10:45:09 2012] [debug] Routing to a callback.
+[Fri Nov 30 10:45:09 2012] [debug] Rendering inline template.
+[Fri Nov 30 10:45:09 2012] [debug] Rendering inline template.
+[Fri Nov 30 10:45:09 2012] [debug] 200 OK (0.065241s, 15.328/s).
+[Fri Nov 30 10:45:11 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:45:11 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:45:11 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:45:11 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:45:11 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:45:15 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:45:15 2012] [debug] GET /perldoc (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 10:45:15 2012] [debug] Routing to a callback.
+[Fri Nov 30 10:45:15 2012] [debug] Rendering inline template.
+[Fri Nov 30 10:45:15 2012] [debug] Rendering inline template.
+[Fri Nov 30 10:45:15 2012] [debug] 200 OK (0.065739s, 15.212/s).
+[Fri Nov 30 10:47:12 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:47:12 2012] [debug] GET /fixpunkt/serverinfo (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 10:47:12 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Fri Nov 30 10:47:12 2012] [debug] Rendering template "fixpunkt/serverinfo.html.ep".
+[Fri Nov 30 10:47:12 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Fri Nov 30 10:47:12 2012] [debug] Rendering template "header_common.html.ep".
+[Fri Nov 30 10:47:12 2012] [debug] Rendering template "fixpunkt/header.html.ep".
+[Fri Nov 30 10:47:12 2012] [debug] Rendering template "fixpunkt/menue.html.ep".
+[Fri Nov 30 10:47:12 2012] [debug] Rendering template "fixpunkt/footer.html.ep".
+[Fri Nov 30 10:47:12 2012] [debug] 200 OK (0.029894s, 33.452/s).
+[Fri Nov 30 10:47:24 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:47:24 2012] [debug] GET /fixpunkt/serverinfo (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 10:47:24 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Fri Nov 30 10:47:24 2012] [debug] Rendering template "fixpunkt/serverinfo.html.ep".
+[Fri Nov 30 10:47:24 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Fri Nov 30 10:47:24 2012] [debug] Rendering template "header_common.html.ep".
+[Fri Nov 30 10:47:24 2012] [debug] Rendering template "fixpunkt/header.html.ep".
+[Fri Nov 30 10:47:24 2012] [debug] Rendering template "fixpunkt/menue.html.ep".
+[Fri Nov 30 10:47:24 2012] [debug] Rendering template "fixpunkt/footer.html.ep".
+[Fri Nov 30 10:47:24 2012] [debug] 200 OK (0.029789s, 33.569/s).
+[Fri Nov 30 10:53:56 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 10:53:56 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 10:53:56 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "welcome".
+[Fri Nov 30 10:53:56 2012] [debug] Rendering template "fixpunkt/welcome.html.ep".
+[Fri Nov 30 10:53:56 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Fri Nov 30 10:53:56 2012] [debug] Rendering template "header_common.html.ep".
+[Fri Nov 30 10:53:56 2012] [debug] Rendering template "fixpunkt/header.html.ep".
+[Fri Nov 30 10:53:57 2012] [debug] Rendering template "fixpunkt/menue.html.ep".
+[Fri Nov 30 10:53:57 2012] [debug] Rendering template "fixpunkt/footer.html.ep".
+[Fri Nov 30 10:53:57 2012] [debug] 200 OK (0.028644s, 34.911/s).
+[Fri Nov 30 12:20:53 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 12:20:53 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 12:20:53 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "welcome".
+[Fri Nov 30 12:20:53 2012] [debug] Rendering template "fixpunkt/welcome.html.ep".
+[Fri Nov 30 12:20:53 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Fri Nov 30 12:20:53 2012] [debug] Rendering template "header_common.html.ep".
+[Fri Nov 30 12:20:53 2012] [debug] Rendering template "fixpunkt/macros/header.html.ep".
+[Fri Nov 30 12:20:53 2012] [debug] Rendering template "fixpunkt/macros/menue.html.ep".
+[Fri Nov 30 12:20:53 2012] [debug] Rendering template "fixpunkt/macros/footer.html.ep".
+[Fri Nov 30 12:20:53 2012] [debug] 200 OK (0.028917s, 34.582/s).
+[Fri Nov 30 13:01:03 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 13:01:03 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 13:01:03 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "index".
+[Fri Nov 30 13:01:03 2012] [debug] Rendering template "fixpunkt/index.html.ep".
+[Fri Nov 30 13:01:03 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Fri Nov 30 13:01:03 2012] [debug] Rendering template "header_common.html.ep".
+[Fri Nov 30 13:01:03 2012] [debug] Rendering template "fixpunkt/macros/header.html.ep".
+[Fri Nov 30 13:01:03 2012] [debug] Rendering template "fixpunkt/macros/menue.html.ep".
+[Fri Nov 30 13:01:03 2012] [debug] Rendering template "fixpunkt/macros/footer.html.ep".
+[Fri Nov 30 13:01:03 2012] [debug] 200 OK (0.029531s, 33.863/s).
+[Fri Nov 30 13:01:09 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 13:01:09 2012] [debug] GET /fixpunkt/aim (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 13:01:09 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Fri Nov 30 13:01:09 2012] [debug] Rendering template "fixpunkt/aim.html.ep".
+[Fri Nov 30 13:01:09 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Fri Nov 30 13:01:09 2012] [debug] Rendering template "header_common.html.ep".
+[Fri Nov 30 13:01:09 2012] [debug] Rendering template "fixpunkt/macros/header.html.ep".
+[Fri Nov 30 13:01:09 2012] [debug] Rendering template "fixpunkt/macros/menue.html.ep".
+[Fri Nov 30 13:01:09 2012] [debug] Rendering template "fixpunkt/macros/footer.html.ep".
+[Fri Nov 30 13:01:09 2012] [debug] 200 OK (0.031554s, 31.692/s).
+[Fri Nov 30 13:01:18 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 13:01:18 2012] [debug] GET /fixpunkt/standards (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 13:01:18 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Fri Nov 30 13:01:18 2012] [debug] Rendering template "fixpunkt/standards.html.ep".
+[Fri Nov 30 13:01:18 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Fri Nov 30 13:01:18 2012] [debug] Rendering template "header_common.html.ep".
+[Fri Nov 30 13:01:18 2012] [debug] Rendering template "fixpunkt/macros/header.html.ep".
+[Fri Nov 30 13:01:18 2012] [debug] Rendering template "fixpunkt/macros/menue.html.ep".
+[Fri Nov 30 13:01:18 2012] [debug] Rendering template "fixpunkt/macros/footer.html.ep".
+[Fri Nov 30 13:01:18 2012] [debug] 200 OK (0.031740s, 31.506/s).
+[Fri Nov 30 13:01:24 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 13:01:24 2012] [debug] GET /fixpunkt/icons (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 13:01:24 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Fri Nov 30 13:01:24 2012] [debug] Rendering template "fixpunkt/icons.html.ep".
+[Fri Nov 30 13:01:24 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Fri Nov 30 13:01:24 2012] [debug] Rendering template "header_common.html.ep".
+[Fri Nov 30 13:01:24 2012] [debug] Rendering template "fixpunkt/macros/header.html.ep".
+[Fri Nov 30 13:01:24 2012] [debug] Rendering template "fixpunkt/macros/menue.html.ep".
+[Fri Nov 30 13:01:24 2012] [debug] Rendering template "fixpunkt/macros/footer.html.ep".
+[Fri Nov 30 13:01:24 2012] [debug] 200 OK (0.032655s, 30.623/s).
+[Fri Nov 30 13:01:29 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 13:01:29 2012] [debug] GET /fixpunkt/responsive (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 13:01:29 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Fri Nov 30 13:01:29 2012] [debug] Rendering template "fixpunkt/responsive.html.ep".
+[Fri Nov 30 13:01:29 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Fri Nov 30 13:01:29 2012] [debug] Rendering template "header_common.html.ep".
+[Fri Nov 30 13:01:29 2012] [debug] Rendering template "fixpunkt/macros/header.html.ep".
+[Fri Nov 30 13:01:29 2012] [debug] Rendering template "fixpunkt/macros/menue.html.ep".
+[Fri Nov 30 13:01:29 2012] [debug] Rendering template "fixpunkt/macros/footer.html.ep".
+[Fri Nov 30 13:01:29 2012] [debug] 200 OK (0.029592s, 33.793/s).
+[Fri Nov 30 13:01:40 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 13:01:40 2012] [debug] GET /fixpunkt/layout (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 13:01:40 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Fri Nov 30 13:01:40 2012] [debug] Rendering template "fixpunkt/layout.html.ep".
+[Fri Nov 30 13:01:40 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Fri Nov 30 13:01:40 2012] [debug] Rendering template "header_common.html.ep".
+[Fri Nov 30 13:01:40 2012] [debug] Rendering template "fixpunkt/macros/header.html.ep".
+[Fri Nov 30 13:01:40 2012] [debug] Rendering template "fixpunkt/macros/menue.html.ep".
+[Fri Nov 30 13:01:40 2012] [debug] Rendering template "fixpunkt/macros/footer.html.ep".
+[Fri Nov 30 13:01:40 2012] [debug] 200 OK (0.037365s, 26.763/s).
+[Fri Nov 30 13:01:53 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 13:01:53 2012] [debug] GET /fixpunkt/formulare (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 13:01:53 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Fri Nov 30 13:01:53 2012] [debug] Rendering template "fixpunkt/formulare.html.ep".
+[Fri Nov 30 13:01:53 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Fri Nov 30 13:01:53 2012] [debug] Rendering template "header_common.html.ep".
+[Fri Nov 30 13:01:53 2012] [debug] Rendering template "fixpunkt/macros/header.html.ep".
+[Fri Nov 30 13:01:53 2012] [debug] Rendering template "fixpunkt/macros/menue.html.ep".
+[Fri Nov 30 13:01:53 2012] [debug] Rendering template "fixpunkt/macros/footer.html.ep".
+[Fri Nov 30 13:01:53 2012] [debug] 200 OK (0.033586s, 29.774/s).
+[Fri Nov 30 14:13:25 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 14:13:25 2012] [debug] GET /xitavis/defaul (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 14:13:25 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 14:13:25 2012] [debug] Template "xitavis/.html.ep" not found.
+[Fri Nov 30 14:13:25 2012] [debug] Template "xitavis/page.html.ep" not found.
+[Fri Nov 30 14:13:33 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 14:13:33 2012] [debug] GET /xitavis/default (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 14:13:33 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 14:13:33 2012] [debug] Template "xitavis/.html.ep" not found.
+[Fri Nov 30 14:13:33 2012] [debug] Template "xitavis/page.html.ep" not found.
+[Fri Nov 30 14:14:35 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 14:14:35 2012] [debug] GET /xitavis/default (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 14:14:35 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 14:14:35 2012] [debug] Rendering template "xitavis/default.html.ep".
+[Fri Nov 30 14:14:35 2012] [debug] Rendering template "layouts/xitavis.html.ep".
+[Fri Nov 30 14:14:36 2012] [debug] Rendering template "xitavis/macros/header.html.ep".
+[Fri Nov 30 14:14:36 2012] [debug] Rendering template "xitavis/macros/menue.html.ep".
+[Fri Nov 30 14:14:36 2012] [debug] Rendering template "xitavis/macros/footer.html.ep".
+[Fri Nov 30 14:14:36 2012] [debug] 200 OK (0.044673s, 22.385/s).
+[Fri Nov 30 14:14:36 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 14:14:36 2012] [debug] GET /skins/new/img/verkehr.jpg (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 14:14:36 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Nov 30 14:14:36 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Nov 30 14:14:36 2012] [debug] Rendering inline template.
+[Fri Nov 30 14:14:36 2012] [debug] Rendering inline template.
+[Fri Nov 30 14:14:36 2012] [debug] 404 Not Found (0.033418s, 29.924/s).
+[Fri Nov 30 14:14:58 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 14:14:58 2012] [debug] GET /xitavis/login (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 14:14:58 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 14:14:59 2012] [debug] Rendering template "xitavis/login.html.ep".
+[Fri Nov 30 14:14:59 2012] [debug] Rendering template "layouts/xitavis.html.ep".
+[Fri Nov 30 14:14:59 2012] [debug] Rendering template "xitavis/macros/header.html.ep".
+[Fri Nov 30 14:14:59 2012] [debug] Rendering template "xitavis/macros/menue.html.ep".
+[Fri Nov 30 14:14:59 2012] [debug] Rendering template "xitavis/macros/footer.html.ep".
+[Fri Nov 30 14:14:59 2012] [debug] 200 OK (0.043765s, 22.849/s).
+[Fri Nov 30 14:15:17 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 14:15:17 2012] [debug] GET /xitavis/stammdaten (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 14:15:17 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 14:15:17 2012] [debug] Template "xitavis/stammdaten.html.ep" not found.
+[Fri Nov 30 14:15:17 2012] [debug] Template "xitavis/page.html.ep" not found.
+[Fri Nov 30 14:17:52 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 14:17:52 2012] [debug] GET /xitavis/stammdaten (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 14:17:52 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 14:17:52 2012] [debug] Template "xitavis/stammdaten.html.ep" not found.
+[Fri Nov 30 14:17:52 2012] [debug] Template "xitavis/page.html.ep" not found.
+[Fri Nov 30 14:17:57 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 14:17:57 2012] [debug] GET /xitavis/stammdaten (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 14:17:57 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 14:17:57 2012] [debug] Template "xitavis/stammdaten.html.ep" not found.
+[Fri Nov 30 14:17:57 2012] [debug] Template "xitavis/page.html.ep" not found.
+[Fri Nov 30 14:18:14 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 14:18:14 2012] [debug] GET /xitavis/stammdaten/firma (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 14:18:14 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 14:18:14 2012] [debug] Rendering template "xitavis/stammdaten/firma.html.ep".
+[Fri Nov 30 14:18:14 2012] [debug] Rendering template "layouts/xitavis.html.ep".
+[Fri Nov 30 14:18:14 2012] [debug] Rendering template "xitavis/macros/header.html.ep".
+[Fri Nov 30 14:18:14 2012] [debug] Rendering template "xitavis/macros/menue.html.ep".
+[Fri Nov 30 14:18:14 2012] [debug] Rendering template "xitavis/macros/footer.html.ep".
+[Fri Nov 30 14:18:14 2012] [debug] 200 OK (0.052663s, 18.989/s).
+[Fri Nov 30 14:21:28 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 14:21:28 2012] [debug] GET /xitavis/stammdaten/TrackingDevice (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 14:21:28 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 14:21:28 2012] [debug] Rendering template "xitavis/stammdaten/TrackingDevice.html.ep".
+[Fri Nov 30 14:21:28 2012] [debug] Rendering template "layouts/xitavis.html.ep".
+[Fri Nov 30 14:21:28 2012] [debug] Rendering template "xitavis/macros/header.html.ep".
+[Fri Nov 30 14:21:28 2012] [debug] Rendering template "xitavis/macros/menue.html.ep".
+[Fri Nov 30 14:21:28 2012] [debug] Rendering template "xitavis/macros/footer.html.ep".
+[Fri Nov 30 14:21:28 2012] [debug] 200 OK (0.042897s, 23.312/s).
+[Fri Nov 30 14:21:28 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 14:21:28 2012] [debug] GET /xitavis/stammdaten/TrackingDevice.aspx-Dateien/application_form_add.png (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 14:21:28 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 14:21:28 2012] [debug] Template "xitavis/stammdaten/TrackingDevice.aspx-Dateien/application_form_add.png.html.ep" not found.
+[Fri Nov 30 14:21:28 2012] [debug] Template "xitavis/page.html.ep" not found.
+[Fri Nov 30 14:21:55 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 14:21:55 2012] [debug] GET /xitavis/stammdaten/TrackingDevice (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 14:21:55 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 14:21:55 2012] [debug] Rendering template "xitavis/stammdaten/TrackingDevice.html.ep".
+[Fri Nov 30 14:21:55 2012] [debug] Rendering template "layouts/xitavis.html.ep".
+[Fri Nov 30 14:21:55 2012] [debug] Rendering template "xitavis/macros/header.html.ep".
+[Fri Nov 30 14:21:55 2012] [debug] Rendering template "xitavis/macros/menue.html.ep".
+[Fri Nov 30 14:21:55 2012] [debug] Rendering template "xitavis/macros/footer.html.ep".
+[Fri Nov 30 14:21:55 2012] [debug] 200 OK (0.042911s, 23.304/s).
+[Fri Nov 30 14:30:48 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 14:30:48 2012] [debug] GET /xitavis/stammdaten/firma (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 14:30:48 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 14:30:48 2012] [debug] Rendering template "xitavis/stammdaten/firma.html.ep".
+[Fri Nov 30 14:30:48 2012] [debug] Rendering template "layouts/xitavis.html.ep".
+[Fri Nov 30 14:30:48 2012] [debug] Rendering template "xitavis/macros/header.html.ep".
+[Fri Nov 30 14:30:48 2012] [debug] Rendering template "xitavis/macros/menue.html.ep".
+[Fri Nov 30 14:30:48 2012] [debug] Rendering template "xitavis/macros/footer.html.ep".
+[Fri Nov 30 14:30:48 2012] [debug] 200 OK (0.052263s, 19.134/s).
+[Fri Nov 30 14:42:56 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 14:42:56 2012] [debug] GET /xitavis/stammdaten/TrackingDevice (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 14:42:56 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 14:42:56 2012] [debug] Rendering template "xitavis/stammdaten/TrackingDevice.html.ep".
+[Fri Nov 30 14:42:56 2012] [debug] Rendering template "layouts/xitavis.html.ep".
+[Fri Nov 30 14:42:56 2012] [debug] Rendering template "xitavis/macros/header.html.ep".
+[Fri Nov 30 14:42:56 2012] [debug] Rendering template "xitavis/macros/menue.html.ep".
+[Fri Nov 30 14:42:56 2012] [debug] Rendering template "xitavis/macros/footer.html.ep".
+[Fri Nov 30 14:42:56 2012] [debug] 200 OK (0.044276s, 22.586/s).
+[Fri Nov 30 15:07:02 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:07:02 2012] [debug] GET /xitavis/stammdaten/TrackingDevice (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 15:07:02 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 15:07:02 2012] [debug] Rendering template "xitavis/stammdaten/TrackingDevice.html.ep".
+[Fri Nov 30 15:07:02 2012] [debug] Rendering template "layouts/xitavis.html.ep".
+[Fri Nov 30 15:07:02 2012] [debug] Rendering template "xitavis/macros/header.html.ep".
+[Fri Nov 30 15:07:02 2012] [debug] Rendering template "xitavis/macros/menue.html.ep".
+[Fri Nov 30 15:07:02 2012] [debug] Rendering template "xitavis/macros/footer.html.ep".
+[Fri Nov 30 15:07:02 2012] [debug] 200 OK (0.045378s, 22.037/s).
+[Fri Nov 30 15:07:52 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:07:52 2012] [debug] GET /xitavis/stammdaten/TrackingDevice (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 15:07:52 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 15:07:52 2012] [debug] Rendering template "xitavis/stammdaten/TrackingDevice.html.ep".
+[Fri Nov 30 15:07:52 2012] [debug] Rendering template "layouts/xitavis.html.ep".
+[Fri Nov 30 15:07:52 2012] [debug] Rendering template "xitavis/macros/header.html.ep".
+[Fri Nov 30 15:07:52 2012] [debug] Rendering template "xitavis/macros/menue.html.ep".
+[Fri Nov 30 15:07:52 2012] [debug] Rendering template "xitavis/macros/footer.html.ep".
+[Fri Nov 30 15:07:52 2012] [debug] 200 OK (0.044759s, 22.342/s).
+[Fri Nov 30 15:25:27 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:25:27 2012] [debug] GET /xitavis/default (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 15:25:27 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 15:25:27 2012] [debug] Rendering template "xitavis/default.html.ep".
+[Fri Nov 30 15:25:27 2012] [debug] Rendering template "layouts/xitavis.html.ep".
+[Fri Nov 30 15:25:27 2012] [debug] Rendering template "xitavis/macros/header.html.ep".
+[Fri Nov 30 15:25:27 2012] [debug] Rendering template "xitavis/macros/menue.html.ep".
+[Fri Nov 30 15:25:27 2012] [debug] Rendering template "xitavis/macros/footer.html.ep".
+[Fri Nov 30 15:25:27 2012] [debug] 200 OK (0.044577s, 22.433/s).
+[Fri Nov 30 15:25:28 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:25:28 2012] [debug] GET /skins/new/img/verkehr.jpg (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 15:25:28 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Nov 30 15:25:28 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Nov 30 15:25:28 2012] [debug] Rendering inline template.
+[Fri Nov 30 15:25:28 2012] [debug] Rendering inline template.
+[Fri Nov 30 15:25:28 2012] [debug] 404 Not Found (0.037295s, 26.813/s).
+[Fri Nov 30 15:25:33 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:25:33 2012] [debug] GET /xitavis/login (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 15:25:33 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 15:25:33 2012] [debug] Rendering template "xitavis/login.html.ep".
+[Fri Nov 30 15:25:33 2012] [debug] Rendering template "layouts/xitavis.html.ep".
+[Fri Nov 30 15:25:33 2012] [debug] Rendering template "xitavis/macros/header.html.ep".
+[Fri Nov 30 15:25:33 2012] [debug] Rendering template "xitavis/macros/menue.html.ep".
+[Fri Nov 30 15:25:33 2012] [debug] Rendering template "xitavis/macros/footer.html.ep".
+[Fri Nov 30 15:25:33 2012] [debug] 200 OK (0.043612s, 22.929/s).
+[Fri Nov 30 15:25:38 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:25:38 2012] [debug] GET /xitavis/portal (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 15:25:38 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 15:25:38 2012] [debug] Rendering template "xitavis/portal.html.ep".
+[Fri Nov 30 15:25:38 2012] [debug] Rendering template "layouts/xitavis.html.ep".
+[Fri Nov 30 15:25:38 2012] [debug] Rendering template "xitavis/macros/header.html.ep".
+[Fri Nov 30 15:25:38 2012] [debug] Rendering template "xitavis/macros/menue.html.ep".
+[Fri Nov 30 15:25:38 2012] [debug] Rendering template "xitavis/macros/footer.html.ep".
+[Fri Nov 30 15:25:38 2012] [debug] 200 OK (0.047299s, 21.142/s).
+[Fri Nov 30 15:25:39 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:25:39 2012] [debug] GET /xitavis/Portal.aspx-Dateien/16-light-green.png (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 15:25:39 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 15:25:39 2012] [debug] Template "xitavis/Portal.aspx-Dateien/16-light-green.png.html.ep" not found.
+[Fri Nov 30 15:25:39 2012] [debug] Template "xitavis/page.html.ep" not found.
+[Fri Nov 30 15:25:43 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:25:43 2012] [debug] GET /xitavis/stammdaten/firma (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 15:25:43 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 15:25:43 2012] [debug] Rendering template "xitavis/stammdaten/firma.html.ep".
+[Fri Nov 30 15:25:43 2012] [debug] Rendering template "layouts/xitavis.html.ep".
+[Fri Nov 30 15:25:43 2012] [debug] Rendering template "xitavis/macros/header.html.ep".
+[Fri Nov 30 15:25:43 2012] [debug] Rendering template "xitavis/macros/menue.html.ep".
+[Fri Nov 30 15:25:43 2012] [debug] Rendering template "xitavis/macros/footer.html.ep".
+[Fri Nov 30 15:25:43 2012] [debug] 200 OK (0.052508s, 19.045/s).
+[Fri Nov 30 15:25:49 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:25:49 2012] [debug] GET /xitavis/stammdaten/TrackingDevice (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 15:25:49 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 15:25:50 2012] [debug] Rendering template "xitavis/stammdaten/TrackingDevice.html.ep".
+[Fri Nov 30 15:25:50 2012] [debug] Rendering template "layouts/xitavis.html.ep".
+[Fri Nov 30 15:25:50 2012] [debug] Rendering template "xitavis/macros/header.html.ep".
+[Fri Nov 30 15:25:50 2012] [debug] Rendering template "xitavis/macros/menue.html.ep".
+[Fri Nov 30 15:25:50 2012] [debug] Rendering template "xitavis/macros/footer.html.ep".
+[Fri Nov 30 15:25:50 2012] [debug] 200 OK (0.044981s, 22.232/s).
+[Fri Nov 30 15:26:05 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:26:05 2012] [debug] GET /fixpunkt/aim (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 15:26:05 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Fri Nov 30 15:26:05 2012] [debug] Rendering template "fixpunkt/aim.html.ep".
+[Fri Nov 30 15:26:05 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Fri Nov 30 15:26:05 2012] [debug] Rendering template "header_common.html.ep".
+[Fri Nov 30 15:26:05 2012] [debug] Rendering template "fixpunkt/macros/header.html.ep".
+[Fri Nov 30 15:26:05 2012] [debug] Rendering template "fixpunkt/macros/menue.html.ep".
+[Fri Nov 30 15:26:05 2012] [debug] Rendering template "fixpunkt/macros/footer.html.ep".
+[Fri Nov 30 15:26:05 2012] [debug] 200 OK (0.044644s, 22.399/s).
+[Fri Nov 30 15:26:09 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:26:09 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 15:26:09 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "index".
+[Fri Nov 30 15:26:09 2012] [debug] Rendering template "fixpunkt/index.html.ep".
+[Fri Nov 30 15:26:09 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Fri Nov 30 15:26:09 2012] [debug] Rendering template "header_common.html.ep".
+[Fri Nov 30 15:26:09 2012] [debug] Rendering template "fixpunkt/macros/header.html.ep".
+[Fri Nov 30 15:26:09 2012] [debug] Rendering template "fixpunkt/macros/menue.html.ep".
+[Fri Nov 30 15:26:09 2012] [debug] Rendering template "fixpunkt/macros/footer.html.ep".
+[Fri Nov 30 15:26:09 2012] [debug] 200 OK (0.042412s, 23.578/s).
+[Fri Nov 30 15:29:22 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:29:22 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 15:29:22 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "index".
+[Fri Nov 30 15:29:22 2012] [debug] Rendering template "fixpunkt/index.html.ep".
+[Fri Nov 30 15:29:22 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Fri Nov 30 15:29:22 2012] [debug] Rendering template "header_common.html.ep".
+[Fri Nov 30 15:29:22 2012] [debug] Rendering template "fixpunkt/macros/header.html.ep".
+[Fri Nov 30 15:29:22 2012] [debug] Rendering template "fixpunkt/macros/menue.html.ep".
+[Fri Nov 30 15:29:22 2012] [debug] Rendering template "fixpunkt/macros/footer.html.ep".
+[Fri Nov 30 15:29:22 2012] [debug] 200 OK (0.042342s, 23.617/s).
+[Fri Nov 30 15:29:25 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:29:25 2012] [debug] GET /xitavis/login (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Fri Nov 30 15:29:25 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 15:29:25 2012] [debug] Rendering template "xitavis/login.html.ep".
+[Fri Nov 30 15:29:25 2012] [debug] Rendering template "layouts/xitavis.html.ep".
+[Fri Nov 30 15:29:25 2012] [debug] Rendering template "xitavis/macros/header.html.ep".
+[Fri Nov 30 15:29:25 2012] [debug] Rendering template "xitavis/macros/menue.html.ep".
+[Fri Nov 30 15:29:25 2012] [debug] Rendering template "xitavis/macros/footer.html.ep".
+[Fri Nov 30 15:29:25 2012] [debug] 200 OK (0.043603s, 22.934/s).
+[Fri Nov 30 15:32:19 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:32:19 2012] [debug] GET /xitavis/default (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Fri Nov 30 15:32:19 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 15:32:19 2012] [debug] Rendering template "xitavis/default.html.ep".
+[Fri Nov 30 15:32:19 2012] [debug] Rendering template "layouts/xitavis.html.ep".
+[Fri Nov 30 15:32:19 2012] [debug] Rendering template "xitavis/macros/header.html.ep".
+[Fri Nov 30 15:32:19 2012] [debug] Rendering template "xitavis/macros/menue.html.ep".
+[Fri Nov 30 15:32:19 2012] [debug] Rendering template "xitavis/macros/footer.html.ep".
+[Fri Nov 30 15:32:19 2012] [debug] 200 OK (0.044643s, 22.400/s).
+[Fri Nov 30 15:32:20 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:32:20 2012] [debug] GET /skins/new/img/verkehr.jpg (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Fri Nov 30 15:32:20 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Nov 30 15:32:20 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Nov 30 15:32:20 2012] [debug] Rendering inline template.
+[Fri Nov 30 15:32:20 2012] [debug] Rendering inline template.
+[Fri Nov 30 15:32:20 2012] [debug] 404 Not Found (0.033676s, 29.695/s).
+[Fri Nov 30 15:32:24 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:32:24 2012] [debug] GET /xitavis/default (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Fri Nov 30 15:32:24 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 15:32:24 2012] [debug] Rendering template "xitavis/default.html.ep".
+[Fri Nov 30 15:32:24 2012] [debug] Rendering template "layouts/xitavis.html.ep".
+[Fri Nov 30 15:32:24 2012] [debug] Rendering template "xitavis/macros/header.html.ep".
+[Fri Nov 30 15:32:24 2012] [debug] Rendering template "xitavis/macros/menue.html.ep".
+[Fri Nov 30 15:32:24 2012] [debug] Rendering template "xitavis/macros/footer.html.ep".
+[Fri Nov 30 15:32:24 2012] [debug] 200 OK (0.044340s, 22.553/s).
+[Fri Nov 30 15:32:24 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:32:24 2012] [debug] GET /skins/new/img/verkehr.jpg (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Fri Nov 30 15:32:24 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Nov 30 15:32:24 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Nov 30 15:32:24 2012] [debug] Rendering inline template.
+[Fri Nov 30 15:32:24 2012] [debug] Rendering inline template.
+[Fri Nov 30 15:32:24 2012] [debug] 404 Not Found (0.033644s, 29.723/s).
+[Fri Nov 30 15:32:26 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:32:26 2012] [debug] GET /xitavis/default (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Fri Nov 30 15:32:26 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 15:32:26 2012] [debug] Rendering template "xitavis/default.html.ep".
+[Fri Nov 30 15:32:26 2012] [debug] Rendering template "layouts/xitavis.html.ep".
+[Fri Nov 30 15:32:26 2012] [debug] Rendering template "xitavis/macros/header.html.ep".
+[Fri Nov 30 15:32:26 2012] [debug] Rendering template "xitavis/macros/menue.html.ep".
+[Fri Nov 30 15:32:26 2012] [debug] Rendering template "xitavis/macros/footer.html.ep".
+[Fri Nov 30 15:32:26 2012] [debug] 200 OK (0.044297s, 22.575/s).
+[Fri Nov 30 15:32:26 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:32:26 2012] [debug] GET /skins/new/img/verkehr.jpg (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Fri Nov 30 15:32:26 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Nov 30 15:32:26 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Nov 30 15:32:26 2012] [debug] Rendering inline template.
+[Fri Nov 30 15:32:26 2012] [debug] Rendering inline template.
+[Fri Nov 30 15:32:26 2012] [debug] 404 Not Found (0.040572s, 24.648/s).
+[Fri Nov 30 15:32:28 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:32:28 2012] [debug] GET /xitavis/default (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Fri Nov 30 15:32:28 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 15:32:28 2012] [debug] Rendering template "xitavis/default.html.ep".
+[Fri Nov 30 15:32:28 2012] [debug] Rendering template "layouts/xitavis.html.ep".
+[Fri Nov 30 15:32:28 2012] [debug] Rendering template "xitavis/macros/header.html.ep".
+[Fri Nov 30 15:32:28 2012] [debug] Rendering template "xitavis/macros/menue.html.ep".
+[Fri Nov 30 15:32:28 2012] [debug] Rendering template "xitavis/macros/footer.html.ep".
+[Fri Nov 30 15:32:28 2012] [debug] 200 OK (0.044566s, 22.439/s).
+[Fri Nov 30 15:32:28 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:32:28 2012] [debug] GET /skins/new/img/verkehr.jpg (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Fri Nov 30 15:32:28 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Nov 30 15:32:28 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Nov 30 15:32:28 2012] [debug] Rendering inline template.
+[Fri Nov 30 15:32:28 2012] [debug] Rendering inline template.
+[Fri Nov 30 15:32:28 2012] [debug] 404 Not Found (0.033564s, 29.794/s).
+[Fri Nov 30 15:32:29 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:32:29 2012] [debug] GET /xitavis/default (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Fri Nov 30 15:32:29 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 15:32:29 2012] [debug] Rendering template "xitavis/default.html.ep".
+[Fri Nov 30 15:32:29 2012] [debug] Rendering template "layouts/xitavis.html.ep".
+[Fri Nov 30 15:32:29 2012] [debug] Rendering template "xitavis/macros/header.html.ep".
+[Fri Nov 30 15:32:29 2012] [debug] Rendering template "xitavis/macros/menue.html.ep".
+[Fri Nov 30 15:32:29 2012] [debug] Rendering template "xitavis/macros/footer.html.ep".
+[Fri Nov 30 15:32:29 2012] [debug] 200 OK (0.044942s, 22.251/s).
+[Fri Nov 30 15:32:30 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:32:30 2012] [debug] GET /skins/new/img/verkehr.jpg (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Fri Nov 30 15:32:30 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Nov 30 15:32:30 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Nov 30 15:32:30 2012] [debug] Rendering inline template.
+[Fri Nov 30 15:32:30 2012] [debug] Rendering inline template.
+[Fri Nov 30 15:32:30 2012] [debug] 404 Not Found (0.033589s, 29.772/s).
+[Fri Nov 30 15:32:40 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:32:40 2012] [debug] GET /xitavis/default (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Fri Nov 30 15:32:40 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 15:32:40 2012] [debug] Rendering template "xitavis/default.html.ep".
+[Fri Nov 30 15:32:40 2012] [debug] Rendering template "layouts/xitavis.html.ep".
+[Fri Nov 30 15:32:40 2012] [debug] Rendering template "xitavis/macros/header.html.ep".
+[Fri Nov 30 15:32:40 2012] [debug] Rendering template "xitavis/macros/menue.html.ep".
+[Fri Nov 30 15:32:40 2012] [debug] Rendering template "xitavis/macros/footer.html.ep".
+[Fri Nov 30 15:32:40 2012] [debug] 200 OK (0.044470s, 22.487/s).
+[Fri Nov 30 15:32:40 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:32:40 2012] [debug] GET /skins/new/img/verkehr.jpg (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Fri Nov 30 15:32:40 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Nov 30 15:32:40 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Nov 30 15:32:40 2012] [debug] Rendering inline template.
+[Fri Nov 30 15:32:40 2012] [debug] Rendering inline template.
+[Fri Nov 30 15:32:40 2012] [debug] 404 Not Found (0.033512s, 29.840/s).
+[Fri Nov 30 15:32:47 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:32:47 2012] [debug] GET /xitavis/default (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Fri Nov 30 15:32:47 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 15:32:47 2012] [debug] Rendering template "xitavis/default.html.ep".
+[Fri Nov 30 15:32:47 2012] [debug] Rendering template "layouts/xitavis.html.ep".
+[Fri Nov 30 15:32:47 2012] [debug] Rendering template "xitavis/macros/header.html.ep".
+[Fri Nov 30 15:32:47 2012] [debug] Rendering template "xitavis/macros/menue.html.ep".
+[Fri Nov 30 15:32:47 2012] [debug] Rendering template "xitavis/macros/footer.html.ep".
+[Fri Nov 30 15:32:47 2012] [debug] 200 OK (0.044350s, 22.548/s).
+[Fri Nov 30 15:32:47 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:32:47 2012] [debug] GET /skins/new/img/verkehr.jpg (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Fri Nov 30 15:32:47 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Nov 30 15:32:47 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Nov 30 15:32:47 2012] [debug] Rendering inline template.
+[Fri Nov 30 15:32:47 2012] [debug] Rendering inline template.
+[Fri Nov 30 15:32:47 2012] [debug] 404 Not Found (0.033435s, 29.909/s).
+[Fri Nov 30 15:38:26 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:38:26 2012] [debug] GET /xitavis/login (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Fri Nov 30 15:38:26 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 15:38:26 2012] [debug] Rendering template "xitavis/login.html.ep".
+[Fri Nov 30 15:38:26 2012] [debug] Rendering template "layouts/xitavis.html.ep".
+[Fri Nov 30 15:38:26 2012] [debug] Rendering template "xitavis/macros/header.html.ep".
+[Fri Nov 30 15:38:26 2012] [debug] Rendering template "xitavis/macros/menue.html.ep".
+[Fri Nov 30 15:38:26 2012] [debug] Rendering template "xitavis/macros/footer.html.ep".
+[Fri Nov 30 15:38:26 2012] [debug] 200 OK (0.043667s, 22.901/s).
+[Fri Nov 30 15:38:30 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:38:30 2012] [debug] GET /xitavis/portal (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Fri Nov 30 15:38:30 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 15:38:30 2012] [debug] Rendering template "xitavis/portal.html.ep".
+[Fri Nov 30 15:38:30 2012] [debug] Rendering template "layouts/xitavis.html.ep".
+[Fri Nov 30 15:38:30 2012] [debug] Rendering template "xitavis/macros/header.html.ep".
+[Fri Nov 30 15:38:30 2012] [debug] Rendering template "xitavis/macros/menue.html.ep".
+[Fri Nov 30 15:38:30 2012] [debug] Rendering template "xitavis/macros/footer.html.ep".
+[Fri Nov 30 15:38:30 2012] [debug] 200 OK (0.047140s, 21.213/s).
+[Fri Nov 30 15:38:31 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:38:31 2012] [debug] GET /xitavis/Portal.aspx-Dateien/16-light-green.png (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Fri Nov 30 15:38:31 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 15:38:31 2012] [debug] Template "xitavis/Portal.aspx-Dateien/16-light-green.png.html.ep" not found.
+[Fri Nov 30 15:38:31 2012] [debug] Template "xitavis/page.html.ep" not found.
+[Fri Nov 30 15:38:42 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:38:42 2012] [debug] GET /xitavis/portal (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Fri Nov 30 15:38:42 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 15:38:42 2012] [debug] Rendering template "xitavis/portal.html.ep".
+[Fri Nov 30 15:38:42 2012] [debug] Rendering template "layouts/xitavis.html.ep".
+[Fri Nov 30 15:38:42 2012] [debug] Rendering template "xitavis/macros/header.html.ep".
+[Fri Nov 30 15:38:42 2012] [debug] Rendering template "xitavis/macros/menue.html.ep".
+[Fri Nov 30 15:38:42 2012] [debug] Rendering template "xitavis/macros/footer.html.ep".
+[Fri Nov 30 15:38:42 2012] [debug] 200 OK (0.047042s, 21.258/s).
+[Fri Nov 30 15:38:43 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:38:43 2012] [debug] GET /xitavis/Portal.aspx-Dateien/16-light-green.png (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Fri Nov 30 15:38:43 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 15:38:43 2012] [debug] Template "xitavis/Portal.aspx-Dateien/16-light-green.png.html.ep" not found.
+[Fri Nov 30 15:38:43 2012] [debug] Template "xitavis/page.html.ep" not found.
+[Fri Nov 30 15:38:52 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:38:52 2012] [debug] GET /xitavis/stammdaten/firma (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Fri Nov 30 15:38:52 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 15:38:52 2012] [debug] Rendering template "xitavis/stammdaten/firma.html.ep".
+[Fri Nov 30 15:38:52 2012] [debug] Rendering template "layouts/xitavis.html.ep".
+[Fri Nov 30 15:38:52 2012] [debug] Rendering template "xitavis/macros/header.html.ep".
+[Fri Nov 30 15:38:52 2012] [debug] Rendering template "xitavis/macros/menue.html.ep".
+[Fri Nov 30 15:38:52 2012] [debug] Rendering template "xitavis/macros/footer.html.ep".
+[Fri Nov 30 15:38:52 2012] [debug] 200 OK (0.052585s, 19.017/s).
+[Fri Nov 30 15:38:58 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:38:58 2012] [debug] GET /xitavis/stammdaten/TrackingDevice (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Fri Nov 30 15:38:58 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 15:38:58 2012] [debug] Rendering template "xitavis/stammdaten/TrackingDevice.html.ep".
+[Fri Nov 30 15:38:58 2012] [debug] Rendering template "layouts/xitavis.html.ep".
+[Fri Nov 30 15:38:58 2012] [debug] Rendering template "xitavis/macros/header.html.ep".
+[Fri Nov 30 15:38:58 2012] [debug] Rendering template "xitavis/macros/menue.html.ep".
+[Fri Nov 30 15:38:58 2012] [debug] Rendering template "xitavis/macros/footer.html.ep".
+[Fri Nov 30 15:38:58 2012] [debug] 200 OK (0.045036s, 22.204/s).
+[Fri Nov 30 15:39:30 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:39:30 2012] [debug] GET /fixpunkt/standards (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Fri Nov 30 15:39:30 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Fri Nov 30 15:39:30 2012] [debug] Rendering template "fixpunkt/standards.html.ep".
+[Fri Nov 30 15:39:30 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Fri Nov 30 15:39:30 2012] [debug] Rendering template "header_common.html.ep".
+[Fri Nov 30 15:39:30 2012] [debug] Rendering template "fixpunkt/macros/header.html.ep".
+[Fri Nov 30 15:39:30 2012] [debug] Rendering template "fixpunkt/macros/menue.html.ep".
+[Fri Nov 30 15:39:30 2012] [debug] Rendering template "fixpunkt/macros/footer.html.ep".
+[Fri Nov 30 15:39:30 2012] [debug] 200 OK (0.054035s, 18.507/s).
+[Fri Nov 30 15:40:07 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:40:07 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Fri Nov 30 15:40:07 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "index".
+[Fri Nov 30 15:40:07 2012] [debug] Rendering template "fixpunkt/index.html.ep".
+[Fri Nov 30 15:40:07 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Fri Nov 30 15:40:07 2012] [debug] Rendering template "header_common.html.ep".
+[Fri Nov 30 15:40:07 2012] [debug] Rendering template "fixpunkt/macros/header.html.ep".
+[Fri Nov 30 15:40:07 2012] [debug] Rendering template "fixpunkt/macros/menue.html.ep".
+[Fri Nov 30 15:40:07 2012] [debug] Rendering template "fixpunkt/macros/footer.html.ep".
+[Fri Nov 30 15:40:07 2012] [debug] 200 OK (0.042426s, 23.570/s).
+[Fri Nov 30 15:40:11 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:40:11 2012] [debug] GET /fixpunkt/icons (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Fri Nov 30 15:40:11 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Fri Nov 30 15:40:11 2012] [debug] Rendering template "fixpunkt/icons.html.ep".
+[Fri Nov 30 15:40:11 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Fri Nov 30 15:40:11 2012] [debug] Rendering template "header_common.html.ep".
+[Fri Nov 30 15:40:11 2012] [debug] Rendering template "fixpunkt/macros/header.html.ep".
+[Fri Nov 30 15:40:11 2012] [debug] Rendering template "fixpunkt/macros/menue.html.ep".
+[Fri Nov 30 15:40:11 2012] [debug] Rendering template "fixpunkt/macros/footer.html.ep".
+[Fri Nov 30 15:40:11 2012] [debug] 200 OK (0.045612s, 21.924/s).
+[Fri Nov 30 15:40:15 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:40:15 2012] [debug] GET /fixpunkt/icons (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Fri Nov 30 15:40:15 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Fri Nov 30 15:40:15 2012] [debug] Rendering template "fixpunkt/icons.html.ep".
+[Fri Nov 30 15:40:15 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Fri Nov 30 15:40:15 2012] [debug] Rendering template "header_common.html.ep".
+[Fri Nov 30 15:40:15 2012] [debug] Rendering template "fixpunkt/macros/header.html.ep".
+[Fri Nov 30 15:40:15 2012] [debug] Rendering template "fixpunkt/macros/menue.html.ep".
+[Fri Nov 30 15:40:15 2012] [debug] Rendering template "fixpunkt/macros/footer.html.ep".
+[Fri Nov 30 15:40:15 2012] [debug] 200 OK (0.045721s, 21.872/s).
+[Fri Nov 30 15:40:16 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Nov 30 15:40:16 2012] [debug] GET /xitavis/login (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:16.0) Gecko/20100101 Firefox/16.0).
+[Fri Nov 30 15:40:16 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Fri Nov 30 15:40:16 2012] [debug] Rendering template "xitavis/login.html.ep".
+[Fri Nov 30 15:40:16 2012] [debug] Rendering template "layouts/xitavis.html.ep".
+[Fri Nov 30 15:40:16 2012] [debug] Rendering template "xitavis/macros/header.html.ep".
+[Fri Nov 30 15:40:16 2012] [debug] Rendering template "xitavis/macros/menue.html.ep".
+[Fri Nov 30 15:40:16 2012] [debug] Rendering template "xitavis/macros/footer.html.ep".
+[Fri Nov 30 15:40:16 2012] [debug] 200 OK (0.043881s, 22.789/s).
+[Sat Dec  1 15:10:07 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Dec  1 15:10:07 2012] [debug] GET /xitavis/portal (Mozilla/5.0 (iPhone; CPU iPhone OS 6_0_1 like Mac OS X; de-de) AppleWebKit/534.46.0 (KHTML, like Gecko) CriOS/21.0.1180.82 Mobile/10A525 Safari/7534.48.3).
+[Sat Dec  1 15:10:07 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Sat Dec  1 15:10:07 2012] [debug] Rendering template "xitavis/portal.html.ep".
+[Sat Dec  1 15:10:07 2012] [debug] Rendering template "layouts/xitavis.html.ep".
+[Sat Dec  1 15:10:07 2012] [debug] Rendering template "xitavis/macros/header.html.ep".
+[Sat Dec  1 15:10:07 2012] [debug] Rendering template "xitavis/macros/menue.html.ep".
+[Sat Dec  1 15:10:07 2012] [debug] Rendering template "xitavis/macros/footer.html.ep".
+[Sat Dec  1 15:10:07 2012] [debug] 200 OK (0.106766s, 9.366/s).
+[Sat Dec  1 15:10:08 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Dec  1 15:10:08 2012] [debug] GET /xitavis/Portal.aspx-Dateien/16-light-green.png (Mozilla/5.0 (iPhone; CPU iPhone OS 6_0_1 like Mac OS X; de-de) AppleWebKit/534.46.0 (KHTML, like Gecko) CriOS/21.0.1180.82 Mobile/10A525 Safari/7534.48.3).
+[Sat Dec  1 15:10:08 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Sat Dec  1 15:10:08 2012] [debug] Template "xitavis/Portal.aspx-Dateien/16-light-green.png.html.ep" not found.
+[Sat Dec  1 15:10:08 2012] [debug] Template "xitavis/page.html.ep" not found.
+[Sat Dec  1 15:10:21 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Dec  1 15:10:21 2012] [debug] GET /xitavis/stammdaten/TrackingDevice (Mozilla/5.0 (iPhone; CPU iPhone OS 6_0_1 like Mac OS X; de-de) AppleWebKit/534.46.0 (KHTML, like Gecko) CriOS/21.0.1180.82 Mobile/10A525 Safari/7534.48.3).
+[Sat Dec  1 15:10:21 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Sat Dec  1 15:10:21 2012] [debug] Rendering template "xitavis/stammdaten/TrackingDevice.html.ep".
+[Sat Dec  1 15:10:21 2012] [debug] Rendering template "layouts/xitavis.html.ep".
+[Sat Dec  1 15:10:21 2012] [debug] Rendering template "xitavis/macros/header.html.ep".
+[Sat Dec  1 15:10:21 2012] [debug] Rendering template "xitavis/macros/menue.html.ep".
+[Sat Dec  1 15:10:21 2012] [debug] Rendering template "xitavis/macros/footer.html.ep".
+[Sat Dec  1 15:10:21 2012] [debug] 200 OK (0.045177s, 22.135/s).
+[Mon Dec  3 10:02:19 2012] [debug] Your secret passphrase needs to be changed!!!
+[Mon Dec  3 10:02:19 2012] [debug] GET /fixpunkt/aim (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Mon Dec  3 10:02:19 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Mon Dec  3 10:02:19 2012] [debug] Rendering template "fixpunkt/aim.html.ep".
+[Mon Dec  3 10:02:19 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Mon Dec  3 10:02:19 2012] [debug] Rendering template "header_common.html.ep".
+[Mon Dec  3 10:02:19 2012] [debug] Rendering template "fixpunkt/macros/header.html.ep".
+[Mon Dec  3 10:02:19 2012] [debug] Rendering template "fixpunkt/macros/menue.html.ep".
+[Mon Dec  3 10:02:19 2012] [debug] Rendering template "fixpunkt/macros/footer.html.ep".
+[Mon Dec  3 10:02:19 2012] [debug] 200 OK (0.084990s, 11.766/s).
+[Mon Dec  3 10:02:23 2012] [debug] Your secret passphrase needs to be changed!!!
+[Mon Dec  3 10:02:23 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Mon Dec  3 10:02:23 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "index".
+[Mon Dec  3 10:02:23 2012] [debug] Rendering template "fixpunkt/index.html.ep".
+[Mon Dec  3 10:02:23 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Mon Dec  3 10:02:23 2012] [debug] Rendering template "header_common.html.ep".
+[Mon Dec  3 10:02:23 2012] [debug] Rendering template "fixpunkt/macros/header.html.ep".
+[Mon Dec  3 10:02:23 2012] [debug] Rendering template "fixpunkt/macros/menue.html.ep".
+[Mon Dec  3 10:02:23 2012] [debug] Rendering template "fixpunkt/macros/footer.html.ep".
+[Mon Dec  3 10:02:23 2012] [debug] 200 OK (0.085443s, 11.704/s).
+[Mon Dec  3 10:04:03 2012] [debug] Your secret passphrase needs to be changed!!!
+[Mon Dec  3 10:04:03 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Mon Dec  3 10:04:03 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "index".
+[Mon Dec  3 10:04:03 2012] [debug] Rendering template "fixpunkt/index.html.ep".
+[Mon Dec  3 10:04:03 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Mon Dec  3 10:04:03 2012] [debug] Rendering template "header_common.html.ep".
+[Mon Dec  3 10:04:03 2012] [debug] Rendering template "fixpunkt/macros/header.html.ep".
+[Mon Dec  3 10:04:03 2012] [debug] Rendering template "fixpunkt/macros/menue.html.ep".
+[Mon Dec  3 10:04:03 2012] [debug] Rendering template "fixpunkt/macros/footer.html.ep".
+[Mon Dec  3 10:04:03 2012] [debug] 200 OK (0.042401s, 23.584/s).
+[Mon Dec  3 10:04:05 2012] [debug] Your secret passphrase needs to be changed!!!
+[Mon Dec  3 10:04:05 2012] [debug] GET /fixpunkt/serverinfo (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Mon Dec  3 10:04:05 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Mon Dec  3 10:04:05 2012] [debug] Rendering template "fixpunkt/serverinfo.html.ep".
+[Mon Dec  3 10:04:05 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Mon Dec  3 10:04:05 2012] [debug] Rendering template "header_common.html.ep".
+[Mon Dec  3 10:04:05 2012] [debug] Rendering template "fixpunkt/macros/header.html.ep".
+[Mon Dec  3 10:04:05 2012] [debug] Rendering template "fixpunkt/macros/menue.html.ep".
+[Mon Dec  3 10:04:05 2012] [debug] Rendering template "fixpunkt/macros/footer.html.ep".
+[Mon Dec  3 10:04:05 2012] [debug] 200 OK (0.043370s, 23.057/s).
+[Mon Dec  3 10:06:09 2012] [debug] Your secret passphrase needs to be changed!!!
+[Mon Dec  3 10:06:09 2012] [debug] GET /fixpunkt/serverinfo (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Mon Dec  3 10:06:09 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Mon Dec  3 10:06:09 2012] [debug] Rendering template "fixpunkt/serverinfo.html.ep".
+[Mon Dec  3 10:06:09 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Mon Dec  3 10:06:09 2012] [debug] Rendering template "header_common.html.ep".
+[Mon Dec  3 10:06:09 2012] [debug] Rendering template "fixpunkt/macros/header.html.ep".
+[Mon Dec  3 10:06:09 2012] [debug] Rendering template "fixpunkt/macros/menue.html.ep".
+[Mon Dec  3 10:06:09 2012] [debug] Rendering template "fixpunkt/macros/footer.html.ep".
+[Mon Dec  3 10:06:09 2012] [debug] 200 OK (0.043511s, 22.983/s).
+[Mon Dec  3 10:07:05 2012] [debug] Your secret passphrase needs to be changed!!!
+[Mon Dec  3 10:07:05 2012] [debug] GET /fixpunkt/serverinfo (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Mon Dec  3 10:07:05 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Mon Dec  3 10:07:05 2012] [debug] Rendering template "fixpunkt/serverinfo.html.ep".
+[Mon Dec  3 10:07:05 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Mon Dec  3 10:07:05 2012] [debug] Rendering template "header_common.html.ep".
+[Mon Dec  3 10:07:05 2012] [debug] Rendering template "fixpunkt/macros/header.html.ep".
+[Mon Dec  3 10:07:05 2012] [debug] Rendering template "fixpunkt/macros/menue.html.ep".
+[Mon Dec  3 10:07:05 2012] [debug] Rendering template "fixpunkt/macros/footer.html.ep".
+[Mon Dec  3 10:07:05 2012] [debug] 200 OK (0.043567s, 22.953/s).
+[Mon Dec  3 10:08:50 2012] [debug] Your secret passphrase needs to be changed!!!
+[Mon Dec  3 10:08:50 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Mon Dec  3 10:08:50 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "index".
+[Mon Dec  3 10:08:50 2012] [debug] Rendering template "fixpunkt/index.html.ep".
+[Mon Dec  3 10:08:50 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Mon Dec  3 10:08:50 2012] [debug] Rendering template "header_common.html.ep".
+[Mon Dec  3 10:08:50 2012] [debug] Rendering template "fixpunkt/macros/header.html.ep".
+[Mon Dec  3 10:08:50 2012] [debug] Rendering template "fixpunkt/macros/menue.html.ep".
+[Mon Dec  3 10:08:50 2012] [debug] Rendering template "fixpunkt/macros/footer.html.ep".
+[Mon Dec  3 10:08:50 2012] [debug] 200 OK (0.042644s, 23.450/s).
+[Mon Dec  3 10:08:56 2012] [debug] Your secret passphrase needs to be changed!!!
+[Mon Dec  3 10:08:56 2012] [debug] GET /fixpunkt/serverinfo (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Mon Dec  3 10:08:56 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Mon Dec  3 10:08:56 2012] [debug] Rendering template "fixpunkt/serverinfo.html.ep".
+[Mon Dec  3 10:08:56 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Mon Dec  3 10:08:56 2012] [debug] Rendering template "header_common.html.ep".
+[Mon Dec  3 10:08:56 2012] [debug] Rendering template "fixpunkt/macros/header.html.ep".
+[Mon Dec  3 10:08:56 2012] [debug] Rendering template "fixpunkt/macros/menue.html.ep".
+[Mon Dec  3 10:08:56 2012] [debug] Rendering template "fixpunkt/macros/footer.html.ep".
+[Mon Dec  3 10:08:56 2012] [debug] 200 OK (0.043928s, 22.765/s).
+[Mon Dec  3 10:32:57 2012] [debug] Your secret passphrase needs to be changed!!!
+[Mon Dec  3 10:32:57 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Mon Dec  3 10:32:57 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "index".
+[Mon Dec  3 10:32:57 2012] [debug] Rendering template "fixpunkt/index.html.ep".
+[Mon Dec  3 10:32:57 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Mon Dec  3 10:32:57 2012] [debug] Rendering template "header_common.html.ep".
+[Mon Dec  3 10:32:57 2012] [debug] Rendering template "fixpunkt/macros/header.html.ep".
+[Mon Dec  3 10:32:57 2012] [debug] Rendering template "fixpunkt/macros/menue.html.ep".
+[Mon Dec  3 10:32:57 2012] [debug] Rendering template "fixpunkt/macros/footer.html.ep".
+[Mon Dec  3 10:32:57 2012] [debug] 200 OK (0.042633s, 23.456/s).
+[Mon Dec  3 10:33:06 2012] [debug] Your secret passphrase needs to be changed!!!
+[Mon Dec  3 10:33:06 2012] [debug] GET /fixpunkt/serverinfo (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:9.0.1) Gecko/20100101 Firefox/9.0.1).
+[Mon Dec  3 10:33:06 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Mon Dec  3 10:33:06 2012] [debug] Rendering template "fixpunkt/serverinfo.html.ep".
+[Mon Dec  3 10:33:06 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Mon Dec  3 10:33:06 2012] [debug] Rendering template "header_common.html.ep".
+[Mon Dec  3 10:33:06 2012] [debug] Rendering template "fixpunkt/macros/header.html.ep".
+[Mon Dec  3 10:33:06 2012] [debug] Rendering template "fixpunkt/macros/menue.html.ep".
+[Mon Dec  3 10:33:06 2012] [debug] Rendering template "fixpunkt/macros/footer.html.ep".
+[Mon Dec  3 10:33:06 2012] [debug] 200 OK (0.043533s, 22.971/s).
+[Mon Dec  3 11:13:40 2012] [debug] Your secret passphrase needs to be changed!!!
+[Mon Dec  3 11:13:40 2012] [debug] GET /xitavis/default (Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.11).
+[Mon Dec  3 11:13:40 2012] [debug] Routing to controller "Mo::Xitavis" and action "page".
+[Mon Dec  3 11:13:40 2012] [debug] Rendering template "xitavis/default.html.ep".
+[Mon Dec  3 11:13:40 2012] [debug] Rendering template "layouts/xitavis.html.ep".
+[Mon Dec  3 11:13:40 2012] [debug] Rendering template "xitavis/macros/header.html.ep".
+[Mon Dec  3 11:13:40 2012] [debug] Rendering template "xitavis/macros/menue.html.ep".
+[Mon Dec  3 11:13:40 2012] [debug] Rendering template "xitavis/macros/footer.html.ep".
+[Mon Dec  3 11:13:40 2012] [debug] 200 OK (0.044110s, 22.671/s).
+[Mon Dec  3 11:13:40 2012] [debug] Your secret passphrase needs to be changed!!!
+[Mon Dec  3 11:13:40 2012] [debug] GET /skins/new/img/verkehr.jpg (Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.11).
+[Mon Dec  3 11:13:40 2012] [debug] Template "not_found.development.html.ep" not found.
+[Mon Dec  3 11:13:40 2012] [debug] Template "not_found.html.ep" not found.
+[Mon Dec  3 11:13:40 2012] [debug] Rendering inline template.
+[Mon Dec  3 11:13:40 2012] [debug] Rendering inline template.
+[Mon Dec  3 11:13:40 2012] [debug] 404 Not Found (0.033796s, 29.589/s).
+[Mon Dec  3 11:14:02 2012] [debug] Your secret passphrase needs to be changed!!!
+[Mon Dec  3 11:14:02 2012] [debug] GET / (Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.11).
+[Mon Dec  3 11:14:02 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "index".
+[Mon Dec  3 11:14:02 2012] [debug] Rendering template "fixpunkt/index.html.ep".
+[Mon Dec  3 11:14:02 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Mon Dec  3 11:14:02 2012] [debug] Rendering template "header_common.html.ep".
+[Mon Dec  3 11:14:02 2012] [debug] Rendering template "fixpunkt/macros/header.html.ep".
+[Mon Dec  3 11:14:02 2012] [debug] Rendering template "fixpunkt/macros/menue.html.ep".
+[Mon Dec  3 11:14:02 2012] [debug] Rendering template "fixpunkt/macros/footer.html.ep".
+[Mon Dec  3 11:14:02 2012] [debug] 200 OK (0.042981s, 23.266/s).
+[Mon Dec  3 11:14:19 2012] [debug] Your secret passphrase needs to be changed!!!
+[Mon Dec  3 11:14:19 2012] [debug] GET /fixpunkt/responsive (Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.11).
+[Mon Dec  3 11:14:19 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Mon Dec  3 11:14:19 2012] [debug] Rendering template "fixpunkt/responsive.html.ep".
+[Mon Dec  3 11:14:19 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Mon Dec  3 11:14:19 2012] [debug] Rendering template "header_common.html.ep".
+[Mon Dec  3 11:14:19 2012] [debug] Rendering template "fixpunkt/macros/header.html.ep".
+[Mon Dec  3 11:14:19 2012] [debug] Rendering template "fixpunkt/macros/menue.html.ep".
+[Mon Dec  3 11:14:19 2012] [debug] Rendering template "fixpunkt/macros/footer.html.ep".
+[Mon Dec  3 11:14:19 2012] [debug] 200 OK (0.042567s, 23.492/s).
+[Mon Dec  3 11:17:57 2012] [debug] Your secret passphrase needs to be changed!!!
+[Mon Dec  3 11:17:57 2012] [debug] GET /fixpunkt/responsive (Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.11).
+[Mon Dec  3 11:17:57 2012] [debug] Routing to controller "Mo::Fixpunkt" and action "page".
+[Mon Dec  3 11:17:57 2012] [debug] Rendering template "fixpunkt/responsive.html.ep".
+[Mon Dec  3 11:17:57 2012] [debug] Rendering template "layouts/fixpunkt.html.ep".
+[Mon Dec  3 11:17:57 2012] [debug] Rendering template "header_common.html.ep".
+[Mon Dec  3 11:17:57 2012] [debug] Rendering template "fixpunkt/macros/header.html.ep".
+[Mon Dec  3 11:17:57 2012] [debug] Rendering template "fixpunkt/macros/menue.html.ep".
+[Mon Dec  3 11:17:57 2012] [debug] Rendering template "fixpunkt/macros/footer.html.ep".
+[Mon Dec  3 11:17:57 2012] [debug] 200 OK (0.042747s, 23.393/s).

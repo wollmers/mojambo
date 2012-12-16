@@ -1,0 +1,11 @@
+<meta charset="utf-8">
+
+<link type="image/x-icon" rel="shortcut icon" href="/pub/skins/<%= $skin %>/img/favicon.ico">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link href="/pub/skins/<%= $skin %>/bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css" media="screen, print, projection">
+<link href="/pub/skins/<%= $skin %>/bootstrap/css/responsive.css" rel="stylesheet" type="text/css" media="screen, print, projection">
+
+<link href="/pub/skins/<%= $skin %>/css/base.css" rel="stylesheet" type="text/css" media="screen, print, projection">
+
