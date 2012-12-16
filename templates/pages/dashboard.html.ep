@@ -1,0 +1,128 @@
+% layout 'pages';
+% title 'Test - Dashboard';
+
+<div class="container">                                 
+<div class="row">
+<p id="test"> </p>
+<p><a href="#" id="saver">save portlet</a></p>
+</div>
+</div>
+		
+
+<div class="container">									
+<div class="row">
+<!-- COLUMN -->
+
+<div class="span6">
+<div class="column" id="col1">
+
+    <div class="portlet" id="1">		
+    <table class="table table-bordered table-condensed" >
+        <thead>
+        <tr><th class="title">Projektinfo</th></tr>
+        </thead>
+        <tbody>
+            <tr><td>
+        		<dl class="dl-horizontal">     			
+        			<dt>Projekt</dt>
+        			<dd>
+        				Demoprojekt
+        			</dd>	
+        		</dl>
+            </td></tr>
+        </tbody>        
+    </table>
+    </div>
+		
+
+	<div class="portlet" id="2">			
+    <table class="table table-bordered table-condensed" >
+        <thead>
+        <tr><th class="title">Projektdokumente</th></tr>
+        </thead>
+        <tbody>
+            <tr><td>				
+    			<ul>   				
+        			<li><a  title="Vorschlag_Basishilfesystem.doc" href="" target="_blank">Hilfe</a></li>   		    		
+    			</ul>
+         </td></tr>
+        </tbody>        
+    </table>
+    </div>			
+
+    <div class="portlet" id="3">			
+    <table class="table table-bordered table-condensed" >
+        <thead>
+        <tr><th class="title">Routen</th></tr>
+        </thead>
+        <tbody>
+        	<tr><td>
+        	    <p title="Sperre: keine">
+        		Route
+        	</p>
+        	</td></tr>
+        </tbody>		
+    </table>
+    </div>
+
+</div>		
+</div>	
+<!-- END COLUMN -->
+
+<!-- COLUMN -->
+<div class="span6">	
+    <div class="column" id="col2">
+    
+    <div class="portlet" id="4">
+	<table class="table table-bordered table-striped table-condensed">
+		<thead>
+		    <tr><th colspan="2" class="title">News</th></tr>
+			<tr>
+				<th scope="col">Betreff</th>
+				<th scope="col">Datum</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr class="unread">
+				<td><a href="#" >Foo</a></td><td>Bar</td>
+			</tr>
+		</tbody>
+	</table>
+    </div>
+		
+    <div class="portlet" id="5">
+	<table class="table table-bordered table-striped table-condensed">
+		<thead>
+		    <tr><th colspan="2" class="title">Neuigkeiten</th></tr>
+			<tr>
+				<th scope="col">Betreff</th>
+				<th scope="col">Datum</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr class="unread">
+				<td><a href="#" >Test</a></td><td>22.02.2012 16:24 Uhr</td>
+			</tr>
+		</tbody>
+	</table>
+	</div>
+
+
+    <div class="portlet" id="6">
+		<table class="table table-bordered table-condensed">
+            <thead>
+                <tr><th class="title">Nachrichten</th></tr>
+            </thead>
+		  <tbody><tr>
+				<td>
+			         Keine Nachrichten
+	           </td>
+			</tr>
+		  </tbody>
+		</table>		
+	</div>
+
+</div>					
+</div><!-- END COLUMN -->				
+</div><!-- END ROW -->		
+</div><!-- END CONTAINER -->				
