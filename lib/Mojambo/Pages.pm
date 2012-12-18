@@ -19,4 +19,14 @@ sub page {
     $self->render(template => "pages/$name");
 }
 
+sub save {
+  my $self      = shift;
+
+  # array of hashes
+  # [{"column":"colum1","portlets":["portlet1","portlet2"]},]
+  my $data = $self->req->json;
+  
+  $self->render_json({answer => "Layout saved."}); 
+}
+
 1;

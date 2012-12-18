@@ -82,18 +82,28 @@ $(function() {
     $( ".column" ).disableSelection();
 });
 
-/* save a nested list via Ajax */
+/* save layout via Ajax */
 $('a#saver').click(function() {
-    var arr = [];       
+    var arr = [];
     $('div.column').each(function() {
-      //var id = $(this).attr('id');
-      var data = {
-        column : $(this).attr('id'),
-        portlets : $('#' + $(this).attr('id')).sortable('toArray')
-      };
-      arr.push(data);
-   });
-   alert(JSON.stringify(arr)); 
+        arr.push({
+            column : $(this).attr('id'),
+            portlets : $('#' + $(this).attr('id')).sortable('toArray')
+        });
+    });
+    $.ajax({
+        url: '/site/save',
+        type: 'POST',
+        data: JSON.stringify(arr),
+        dataType: 'json',
+        success: function() {
+            // alert('success ');
+        },
+        error: function() {
+            // alert('error');
+        }
+    });
+    return false;
 });
 
 
